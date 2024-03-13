@@ -1,12 +1,18 @@
 # Mise en place d'une Téléassistance
 
 ## Sommaire
+1. Présentaiton du projet et Objectif
+2. Mise en contexte
+3. Présentaiton de l'équipe
+4. Choix technqiue
+5. Difficulté & solution trouvé
+6. Amélioration
 
-### Présentaiton du projet et Objectif
+### 1. Présentaiton du projet et Objectif
 
-### Mise en contexte
+### 2. Mise en contexte
 
-### Présentaiton de l'équipe
+### 3. Présentaiton de l'équipe
 Charles Caulier, Damien Legay, Nicolas Maggiori, Luca Pouilly, Bruno Serna
 Role Semaine 1 :
 - PO : Luca Pouilly
@@ -19,9 +25,9 @@ Role Semaine 1 :
 
 Role Semaine 2 :
 
-### Choix Technique
+### 4. Choix technique
 
-### Diffuculté & Solution trouvé
+### 5. Difficulté & solution trouvé
 
-### Amélioration 
+### 6. Amélioration 
 
