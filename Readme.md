@@ -14,6 +14,7 @@
 
 ### 3. Présentaiton de l'équipe
 Charles Caulier, Damien Legay, Nicolas Maggiori, Luca Pouilly, Bruno Serna
+
 Role Semaine 1 :
 - PO : Luca Pouilly
 - SM : Bruno Serna
