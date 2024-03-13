@@ -2,7 +2,7 @@
 
 ## Sommaire
 
-## Présentaiton du projet et Objectif
+### Présentaiton du projet et Objectif
 
 ### Mise en contexte
 
