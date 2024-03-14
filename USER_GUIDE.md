@@ -1,7 +1,12 @@
 # Guide utilisateur Téléassistance
 
+
 ## Sommaire
+
+
+
 ### 1. Utilité de la téléassitance
+
 
 #### Un support plus efficace
 
@@ -24,19 +29,60 @@ Concrètement, il est souvent laborieux pour un utilisateur de devoir expliquer 
 Avec le contrôle à distance vous intervenez quasiment dans les mêmes conditions qu'un support personnalisé où vous êtes physiquement à côté de l'utilisateur.
 
 
-### 2. Utilisation basique bureau d'accès à distance
+
+
+### 2. Utilisation basique Bureau d'accès à distance
+
+
+
 
 ### 3. Utilisation basique TightVNC
 
-### 4. Utilisation avancé bureau d'accès à distance
+
+
+
+### 4. Utilisation avancé Bureau d'accès à distance
+
+
+
 
 ### 5. Utilisation avancé TightVNC
 
-### 6. FAQ bureau d'accès à distance
+
+
+
+### 6. FAQ Bureau d'accès à distance
+
+
+Pourquoi ne puis-je pas me connecter à l’aide du Bureau à distance ?
+
+Voici quelques solutions possibles aux problèmes courants que vous pouvez rencontrer lorsque vous tentez de vous connecter à un PC distant. Si ces solutions ne fonctionnent pas, vous trouverez plus d’informations sur le site web de Microsoft Community.
+
+**Impossible de trouver un PC distant**. Assurez-vous d’avoir le nom de PC adéquat, puis vérifiez si vous avez entré ce nom correctement. Si vous ne pouvez toujours pas vous connecter, essayez d’utiliser l’adresse IP du PC distant au lieu de son nom.
+
+**Un problème de réseau est survenu**. Vérifiez que vous disposez d’une connexion à Internet.
+
+**Le port du Bureau à distance peut être bloqué par un pare-feu**. Si vous utilisez un pare-feu Windows, procédez comme suit :
+
+  - Ouvrez le pare-feu Windows.
+  - Cliquez sur **Autoriser une application ou une fonctionnalité via le Pare-feu Windows**.
+  - Cliquez sur **Modifier les paramètres**. Vous devrez peut-être saisir votre mot de passe administrateur ou confirmer votre choix.
+  - Sous **Applications et fonctionnalités autorisées**, sélectionnez **Bureau à distance**, puis appuyez ou cliquez sur **OK**.
+  - Si vous utilisez un autre pare-feu, assurez-vous que le port Bureau à distance (généralement 3389) est ouvert.
+
+**La fonctionnalité Connexion à distance ne peut pas être configurée sur le PC distant**. Pour résoudre ce problème, revenez à la question Comment configurer un PC pour le Bureau à distance ? de cette rubrique.
+
+**Le PC à distance peut autoriser uniquement la connexion des PC dont l’authentification au niveau du réseau est configurée.**
+
+**Le PC à distance est peut-être désactivé**. Vous ne pouvez pas vous connecter à un PC qui est désactivé, en veille ou en veille prolongée. Par conséquent, vérifiez que les paramètres de mise en veille et veille prolongée sur un PC distant sont définis sur **Jamais**. Remarque : La mise en veille prolongée n’est pas disponible pour tous les PC.
+
+
+
 
 ### 7. FAQ TightVNC
 
-#### - Quelles sont les versions de Windows supportées par TightVNC ?
+
+#### Quelles sont les versions de Windows supportées par TightVNC ?
 
 TightVNC fonctionne en principe sur toutes les versions de Windows (les systèmes 32 bits et 64 bits sont pris en charge) :
     Windows XP / Vista / 7 / 8 / 8.1 / 10 / 11,
@@ -45,15 +91,17 @@ Sous Windows XP, vous devez avoir installé le dernier Service Pack. Les systèm
 Il n'y a pas d'exigences minimales en matière d'espace disque ou de mémoire vive. TightVNC utilise si peu d'espace et de mémoire qu'il peut fonctionner partout où Windows est en cours d'exécution.
 Les versions antérieures 1.2 et 1.3 de TightVNC présentent toutefois certaines limitations. Il n'est pas possible d'utiliser TightVNC Server en tant que service système sur Windows Vista / Windows 7 dans ce cas. 
 
-#### - Comment quitter le mode plein écran de TightVNC Viewer ?
+#### Comment quitter le mode plein écran de TightVNC Viewer ?
 
 Pour quitter le mode plein écran de TightVNC Viewer pour Windows, vous pouvez utiliser la combinaison de clavier Ctrl-Alt-Shift-F.
 La raison de cette combinaison de clavier complexe est que nous devons utiliser un raccourci clavier qui n'est pas susceptible d'être utilisé par des applications normales. Si une combinaison est utilisée comme raccourci clavier dans la visionneuse TightVNC, elle sera traitée localement dans la visionneuse et ne sera donc pas transmise au serveur VNC, ce qui peut poser des problèmes avec les applications distantes qui utilisent le même raccourci clavier.
 Dans nos applications modernes telles que Remote Ripple et MightyViewer, il est beaucoup plus facile de quitter le mode plein écran. Il suffit de déplacer le pointeur de la souris sur le bord supérieur de l'écran et une barre d'outils flottante apparaît, dans laquelle vous pouvez choisir de quitter le mode plein écran. 
 
-#### - TightVNC fonctionne-t-il sur Mac OS X ?
+#### TightVNC fonctionne-t-il sur Mac OS X ?
 
 Actuellement, nous ne proposons pas de version pour Mac OS X. Il est très probable que TightVNC en propose une à l'avenir, mais pas dans les jours qui viennent. Actuellement, notre équipe est occupée à travailler sur la version Windows.
 Si vous avez besoin d'une partie visionneuse sur Mac OS X, essayez TightVNC Java Viewer. Il est multiplateforme et devrait fonctionner correctement sur tout système où l'environnement Java peut être installé, y compris Mac OS X.
 Notez également que les versions récentes de Mac OS X comprennent un serveur VNC intégré qui est également compatible avec TightVNC. En d'autres termes, vous pouvez vous connecter à n'importe quel système Mac OS X moderne avec TightVNC Viewer. 
+
+
 ### 8. Annexes
