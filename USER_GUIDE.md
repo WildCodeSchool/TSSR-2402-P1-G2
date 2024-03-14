@@ -77,6 +77,10 @@ Voici quelques solutions possibles aux problèmes courants que vous pouvez renco
 **Le PC à distance est peut-être désactivé**. Vous ne pouvez pas vous connecter à un PC qui est désactivé, en veille ou en veille prolongée. Par conséquent, vérifiez que les paramètres de mise en veille et veille prolongée sur un PC distant sont définis sur **Jamais**. Remarque : La mise en veille prolongée n’est pas disponible pour tous les PC.
 
 
+#### Quels PC puis-je utiliser pour accéder au client web ?
+
+Le client web prend en charge Windows, macOS, Linux et ChromeOS. Il ne prend pas en charge les appareils mobiles pour l’instant.
+
 
 
 ### 7. FAQ TightVNC
