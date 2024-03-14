@@ -1,26 +1,26 @@
 # Guide d'installation et mise en place de la Téléassistance
-## Somaire
+## Sommaire
 1. Pré-requis techniques
 2. Configuration Poste Serveur
 3. Configuration Poste Client
-4. Configuraiton Bureau d'accès à distance
-5. Test et connextion Bureau d'accès à distance
-6. Installation & Configuraiton TightVNC Poster Serveur
-7. Installation & Configuraiton TightVNC Poster Client
-8. Test connection TightVNC
+4. Configuration Bureau d'accès à distance
+5. Test et connexion Bureau d'accès à distance
+6. Installation & Configuration TightVNC Poste Serveur
+7. Installation & Configuration TightVNC Poste Client
+8. Test connexion TightVNC
 9. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
 10. FAQ probleme technique et amélioration possibles
 
 ### 1. Pré-requis techniques
-- Poste serveur : Windows serveur 2022, firewell desactivé, Remote management et Remote Desktop activé, Firewall désactivé
-- Poste serveur : Windows 10 Pro, firewell desactivé
+- Poste serveur : Windows serveur 2022, firewall desactivé, Remote management et Remote Desktop activé, Firewall désactivé
+- Poste serveur : Windows 10 Pro, firewall desactivé
 
 ### 2. Configuration Poste Serveur
 **Configuration Serveur windows**
 
 **Serveur Manager**
 
-• Dans serveur manager, se rendre dans **local serveur**
+• Dans serveur manager, se rendre dans **local server**
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-1.png?raw=true)
 
 Vérifier les points suivants:
@@ -37,7 +37,7 @@ Vérifier les points suivants:
 • Ouvrer le menu démarrer, cherchez le **panel control** puis ouvrez-le
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png?raw=true)
 
-• sélectionner la façon dont vous voyez les dossier, choisir “**large ou small”**
+• Sélectionner la façon dont vous voyez les dossier, choisir “**large ou small”**
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-3.png?raw=true)
 
 
@@ -53,15 +53,15 @@ Vérifier les points suivants:
 • Effectuer un clic droit puis sélectionner “**properties**” 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-7.png?raw=true)
   
-• Selectionner “**Internet Protocol Version 4(TCP/IPV4)**” puis cliquer à nouveaux sur “**properties**”
+• Sélectionner “**Internet Protocol Version 4(TCP/IPV4)**” puis cliquer à nouveaux sur “**properties**”
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-8.png?raw=true)
   
-• Dans IP adresse rentrez les valeurs suivante: “**172.16.10.10**”, 
+• Dans IP adresse, rentrez les valeurs suivante: “**172.16.10.10**”, 
 Dans “Subnet Mask/masque de sous réseaux”:”**255.255.255.0”**
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-9.png?raw=true)
 
 
-**Firewall/Par-feux**
+**Firewall/Pare-feu**
 
 • Ouvrir le menu démarrer, cherchez le **panel control** puis ouvrez-le 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png?raw=true)
@@ -140,19 +140,19 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Valider l’opération en cliquant sur “OK”.
 
 
-### 4. Configuraiton Bureau d'accès à distance
+### 4. Configuration Bureau d'accès à distance
 insérer doc faites par charles
 
-### 5. Test et connextion Bureau d'accès à distance
+### 5. Test & Connexion Bureau d'accès à distance
 insérer doc faites par charles
 
-### 6. Installation & Configuraiton TightVNC Poster Serveur
+### 6. Installation & Configuration TightVNC Poste Serveur
 insérer doc faites par Damien
 
-### 7. Installation & Configuraiton TightVNC Poster Client
+### 7. Installation & Configuration TightVNC Poste Client
 insérer doc faites par Damien
 
-### 8. Test connection TightVNC
+### 8. Test connexion TightVNC
 insérer doc faites par Damien
 
 ### 9. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
@@ -167,7 +167,7 @@ Dans la fenêtre de l'application, accèder à l'onglet "Acces Control".
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/assets/158192308/e8226071-0b9e-4d02-9521-11aa0392334b"></p>
 
 
-Cliquer sur le bouton "Add" pour paramètrer la ou les adresses IP considérées.
+Cliquer sur le bouton "Add" pour paramétrer la ou les adresses IP considérées.
 
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/assets/158192308/cea50dac-c67a-4c8f-826d-5a1c21b56422"></p>
 
