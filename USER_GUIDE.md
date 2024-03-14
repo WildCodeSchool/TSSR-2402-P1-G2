@@ -1,6 +1,6 @@
 # Guide utilisateur Téléassistance
 
-## Somaire
+## Sommaire
 1. Utilité de la téléassitance
 2. Utilisation basique bureau d'accès à distance
 3. Utilisation basique TightVNC
