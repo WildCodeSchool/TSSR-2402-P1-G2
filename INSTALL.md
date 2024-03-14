@@ -94,5 +94,25 @@ insérer doc faites par Damien
 ### 8. Test connection TightVNC
 insérer doc faites par Damien
 
+###< 10. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
+
+Renseigner dans la barre de recherche en bas à gauche de votre écran : “TightVNC Service - Offline Configuration". Cliquer sur l'application du même nom.
+
+
+Dans la fenêtre de l'application, accèder à l'onglet "Acces Control".
+
+
+Cliquer sur le bouton "Add" pour paramètrer la ou les adresses IP considérées.
+
+
+Dans la case "First matching", entrer l'adresse IP du poste client concerné (dans notre cas 172.16.10.20). Si vous souhaitez étendre la plage des adresses IP concernées, alors remplir la case "Last matching IP" au-dessous avec la dernière adresse IP voulue. Dans le cas contraire, laisser cette case vide. Il est alors possible de donner l'accès "Allow", refuser l'accès "Deny" ou encore de laisser le choix à l'utilisateur par le biais d'une fenêtre qui s'ouvrira lors de la requête de téléassistance émise par le poste client "Query local user".
+Dans notre cas, et pour des raisons de sécurité et de contrôle, nous cochons cette dernière et appuyons sur "OK".
+
+
+Ne pas oublier d'appliquer nos options à l'utilisation de TightVNC en cliquant d'abord sur "Apply" avant de fermer la fenêtre ou d'appuyer sur "OK".
+
+
+
+
 ### 9. FAQ probleme technique et amélioration possibles
 doc commune
