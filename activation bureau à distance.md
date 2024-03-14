@@ -8,7 +8,7 @@
 ![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20%20demarrer.jpg?raw=true>)
 
 #
-- Aller dans le " **PARAMETRE** "
+- Aller dans " **PARAMETRE** "
 
 ![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20parametre.jpg>)
 
