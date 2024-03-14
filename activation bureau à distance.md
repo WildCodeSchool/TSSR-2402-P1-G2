@@ -5,7 +5,7 @@
 #
 - Lorsque l'on est prêt, on va dans le menu " **DEMARRER** "
 
-![alt text](<ACTIV  demarrer.jpg>)
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20%20demarrer.jpg?raw=true>)
 
 #
 - Aller dans le " **PARAMETRE** "
