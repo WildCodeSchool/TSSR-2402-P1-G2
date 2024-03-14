@@ -8,7 +8,8 @@
 6. Installation & Configuraiton TightVNC Poster Serveur
 7. Installation & Configuraiton TightVNC Poster Client
 8. Test connection TightVNC
-9. FAQ probleme technique et amélioration possibles
+9. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
+10. FAQ probleme technique et amélioration possibles
 
 ### 1. Pré-requis techniques
 - Poste serveur : Windows serveur 2022, firewell desactivé, Remote management et Remote Desktop activé, Firewall désactivé
@@ -154,7 +155,7 @@ insérer doc faites par Damien
 ### 8. Test connection TightVNC
 insérer doc faites par Damien
 
-### 10. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
+### 9. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
 
 Renseigner dans la barre de recherche en bas à gauche de votre écran : “TightVNC Service - Offline Configuration". Cliquer sur l'application du même nom.
 
@@ -183,5 +184,5 @@ Ne pas oublier d'appliquer nos options à l'utilisation de TightVNC en cliquant 
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/assets/158192308/e7a30f8d-0600-4826-8c6e-cd19ff4b7815></p>
 
 
-### 9. FAQ probleme technique et amélioration possibles
+### 10. FAQ probleme technique et amélioration possibles
 doc commune
