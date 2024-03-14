@@ -16,7 +16,7 @@
    - Téléasssitance à réaliser via logiciel **_TightVNC_** et la **_connexion Bureau à distance de Windows_**.
 
 - Objectif secondaire :
-   - Script Powershell pour faciliter la connection initiale de la téléassitance.
+   - Script Powershell pour faciliter la connexion initiale de la téléassitance.
 
 ### 2. Mise en contexte
 
