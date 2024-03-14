@@ -10,24 +10,24 @@
 #
 - Aller dans le " **PARAMETRE** "
 
-![alt text](<ACTIV parametre.jpg>)
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20parametre.jpg>)
 
 #
 - Aller dans " **SYSTEME** " 
 
-![alt text](<ACTIV systeme.jpg>)
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20systeme.jpg>)
 
 #
 - Aller dans " **BUREAU A DISTANCE** "
 
-![alt text](<ACTIV bureau a distance.jpg>)
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20bureau%20a%20distance.jpg>)
 
 #
 - Cocher l'onglet " **ACTIVER LE BUREAU A DISTANCE** "
 
-![alt text](<ACTIV activer.jpg>)
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20activer.jpg>)
 
 #
 - Puis " **CONFIRMER** " pour valider l'activation
 
-![alt text](<ACTIV confirmer.jpg>)
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20confirmer.jpg>)
