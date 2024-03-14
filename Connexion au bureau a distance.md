@@ -10,7 +10,7 @@
 #
 - Taper " **CONNEXION BUREAU A DISTANCE** "
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20bad.jpg>)
+![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20%20barre%20co.jpg>)
 
 #
 - Cliquez sur l'application " **CONNEXION BUREAU A DISTANCE** "
