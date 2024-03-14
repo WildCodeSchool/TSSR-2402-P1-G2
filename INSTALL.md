@@ -15,7 +15,67 @@
 - Poste serveur : Windows 10 Pro, firewell desactivé
 
 ### 2. Configuration Poste Serveur
+**Configuration Serveur windows**
 
+**Serveur Manager**
+
+• Dans serveur manager, se rendre dans **local serveur**
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-1.png?raw=true)
+
+Vérifier les points suivants:
+
+*   Remote management “**Enabled**” (Activer)
+    
+*   Remote desktop “**Enabled**” (Activer)
+    
+*   IE Enhanced Security Configuration “**Off**” 
+    
+
+**Adresse IP**
+
+• Ouvrer le menu démarrer, cherchez le **panel control** puis ouvrez-le
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png?raw=true)
+
+• sélectionner la façon dont vous voyez les dossier, choisir “**large ou small”**
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-3.png?raw=true)
+
+
+• Ouvrer “**Network and Sharing center**”
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-4.png?raw=true)
+
+• Aller ensuite dans la catégorie “**change adapter settings”**
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-5.png?raw=true)
+
+• Sélectionner la carte **“ethernet 2”**
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-6.png?raw=true)
+
+• Effectuer un clic droit puis sélectionner “**properties**” 
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-7.png?raw=true)
+  
+• Selectionner “**Internet Protocol Version 4(TCP/IPV4)**” puis cliquer à nouveaux sur “**properties**”
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-8.png?raw=true)
+  
+• Dans IP adresse rentrez les valeurs suivante: “**172.16.10.10**”, 
+Dans “Subnet Mask/masque de sous réseaux”:”**255.255.255.0”**
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-9.png?raw=true)
+
+
+**Firewall/Par-feux**
+
+• Ouvrir le menu démarrer, cherchez le **panel control** puis ouvrez-le 
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png?raw=true)
+  
+• Sélectionner “**Systemes and Securities**”
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-10.png?raw=true)
+  
+• Ouvrir “**Windows Defender Firewall**”
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-11.png?raw=true)
+  
+• Sélectionner “**Turn Windows defender firewall on or off**”
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-12.png?raw=true)
+  
+• Désactiver les settings public et privé
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-13.png?raw=true)
 
 ### 3. Configuration Poste Client
 
