@@ -28,13 +28,13 @@ En résumé, TightVNC est une option populaire pour la téléassistance en raiso
 TightVNC est disponible au téléchargement depuis l’adresse suivante : <https://www.tightvnc.com/download.php>.
 
 La méthode la plus simple est de télécharger le fichier compatible pour l’installateur **WindowsServer**
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/lien%20t%C3%A9l%C3%A9chargement.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/lien%20t%C3%A9l%C3%A9chargement.png)
 
 Section d'installation de TightVNC sous Windows
 
 Le fichier s’exécute sous la forme d’un **didacticiel** vous guidant pendant les étapes de l’installation.
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC2%20(2).png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC2%20(2).png)
 
 
 
@@ -51,7 +51,7 @@ Le programme d’installation propose **3 options** classiques :
 - L’installation **Custom,** ici le programme demande confirmation et de chaque étape ;
 - L’installation **complète,** identique à la première option, mais en incluant tous les composants disponibles. 
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ3.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ3.png)
 
 Dans notre cas, je vous propose de passer par **l’installation personnalisée(Custom)**.
 
@@ -70,7 +70,7 @@ Dans notre cas, je vous propose de passer par **l’installation personnalisée
 L’étape suivante consiste à sélectionner le type d’installation. S'il s'agit du poste **qui sera contrôlé** à distance, dans ce cas il faut installer TightVNC **Server.** S’il s’agit du poste avec lequel **vous prendrez le contrôle** à distance d’un autre, il faut installer TightVNC **Client.(voir installation coté client)**
 
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ4.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ4.png)
 
 Type d'installation : client ou serveur ?
 
@@ -93,7 +93,7 @@ Le programme d’installer propose ensuite la configuration de **4 options dist
 - L’option suivante autorise les programmes TightVNC à exécuter la séquence « **Ctrl-Alt-Del** » bien connue permettant notamment d’envoyer un ordre de redémarrage au système d’exploitation. En la cochant, vous autorisez l’utilisateur ayant le contrôle du poste à effectuer cette opération ;
 - Enfin, dernière option, il s’agit d’ajouter une règle dans le **Firewall** Windows afin de **laisser passer les flux réseaux** concernant TightVNC. Cela me paraît tout à fait justifié.
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ5.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ5.png)
 
 Fenêtre de tâches additionnelles
 
@@ -106,7 +106,7 @@ Je vous propose donc de **cocher les 4 options** proposées. Notez que Windows
 
 
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ6.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ6.png)
 
 Demande de confirmation de Windows
 
@@ -135,7 +135,7 @@ Le panneau suivant est important car il permet de **sécuriser** l’installat
 
 
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ7.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ7.png)
 
 
 Définition des mots de passe
@@ -161,7 +161,7 @@ Voilà ! L’installation se termine ici. Nous allons maintenant vérifier que t
 Normalement, un icône supplémentaire VNC s’est ajoutée dans la barre des tâches Windows.
 
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ8.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ8.png)
 
 Icône VNC dans la barre des tâches Windows
 
@@ -169,21 +169,21 @@ Cet icône nous permet d’accéder au panneau de configuration, je reviendrai s
 
 Vous avez également des **raccourcis supplémentaires** en fonction des composants installés dans le menu Windows tels que par exemple : 
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ9.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ9.png)
 
 Raccourcis supplémentaires 
 
 
 Par ailleurs, si vous avez sélectionnez l’option d’installation de TightVNC en tant que service, vous retrouverez la ligne associée dans le menu services de Windows, telle que :
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ10.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ10.png)
 
 
 Service de TightVNC dans le menu services Windows
 
 De plus, vous pouvez également retrouver la règle ajoutée pour TightVNC dans le **Firewall** de Windows telle que :
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ11.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ11.png)
 
 
 
@@ -196,7 +196,7 @@ netstat -abp TCP
 
 Vous pourrez constater l’ouverture de deux ports par défaut, 5800 et 5900.
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ12.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ12.png)
 
 
 Les ports 5900 et 5800 sont ouverts
@@ -211,7 +211,7 @@ Cependant, si vous n’avez pas coché l’option lors du processus d’installa
 
 Par exemple, pour **enregistrer TightVNC** en tant que service :
 
-https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ13.png
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ13.png)
 
 
 Attention, cette action inscrit le service dans les registres Windows **sans le démarrer**. Il est nécessaire soit de **redémarrer** Windows, soit de le **lancer à la main** pour démarrer le serveur.
