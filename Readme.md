@@ -1,13 +1,14 @@
-<div align="center"><h1> Mise en place d'une Téléassistance</h1></div>
+# Mise en place d'une Téléassistance
 
-<div align="center"><img src=https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TAexemple.png></div>
-<div align="center"> <h2> Sommaire <h2></h2></h2></div>
-<div align="center">1. Présentaiton du projet et Objectif</div>
-<div align="center">2. Mise en contexte</div>
-<div align="center">3. Présentaiton de l'équipe</div>
-<div align="center">4. Choix technqiue</div>
-<div align="center">5. Difficulté & solution trouvé</div>
-<div align="center">6. Amélioration</div>
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TAexemple.png)
+
+## Sommaire 
+1. Présentaiton du projet et Objectif
+2. Mise en contexte
+3. Présentaiton de l'équipe
+4. Choix technqiue
+5. Difficulté & solution trouvé
+6. Amélioration
 
    
 ### 1. Présentaiton du projet et objectif
