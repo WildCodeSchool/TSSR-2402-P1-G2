@@ -3,7 +3,7 @@
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TAexemple.png)
 
 ## Sommaire 
-1. Présentaiton du projet et Objectifs
+1. Présentation du projet et objectifs
 2. Mise en contexte
 3. Présentaiton de l'équipe
 4. Choix techniques
@@ -11,18 +11,18 @@
 6. Améliorations
 
    
-### 1. Présentaiton du projet et objectif
+### 1. Présentation du projet et objectifs
 - Objectif principal :
    - Configurer un accès sécurisé pour faire de la téléassistance sur un serveur en utilisant une interface graphique depuis un client.
-   - Téléasssitance à réaliser via logiciel **_TightVNC_** et la **_connexion Bureau à distance de Windows_**.
+   - Téléassitance à mettre en place via logiciel **_TightVNC_** et la **_connexion Bureau à distance de Windows_**.
 
 - Objectif secondaire :
    - Script Powershell pour faciliter la connexion initiale de la téléassitance.
 
 ### 2. Mise en contexte
 
-### 3. Présentaiton de l'équipe
-L'équipe pour le projet est constitué des personnes suivantes :
+### 3. Présentation de l'équipe
+L'équipe pour le projet est constituée des personnes suivantes :
 - Charles Caulier
 - Damien Legay
 - Nicolas Maggiori
@@ -31,7 +31,7 @@ L'équipe pour le projet est constitué des personnes suivantes :
 
 Durant tout le projet les rôles et taches de chacun sont répartis de la façon suivante :
 
-Role Semaine 1 :
+Rôle Semaine 1 :
 | PO | SM |
 |:-: |:-:
 | Luca Pouilly | Bruno Serna |
@@ -43,9 +43,9 @@ Taches Semaine 1 :
 | Configuraiton VM Poste Client | Nicolas Maggiori |
 | Bureau d'accès à distance | Charles Caulier |
 | Logiciel TightVNC |  Damien Legay |
-| Objectif secondaire prise d'info | Bruno Serna |
+| Objectif secondaire prise d'infos | Bruno Serna |
 
-Role Semaine 2 :
+Rôle Semaine 2 :
 | PO | SM |
 |:-: |:-:
 | Damien Legay | Charles Caulier |
@@ -57,7 +57,7 @@ Taches Semaine 2 :
 | Réalisation démonstration logiciels | Damien Legay, Charles Caulier |
 | Ecriture script PowerShell | Bruno Serna |
 
-### 4. Choix technique
+### 4. Choix techniques
 
 Le client est sous Windows 10
 - Nom : CLILIN01
