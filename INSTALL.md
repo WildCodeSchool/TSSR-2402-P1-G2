@@ -9,10 +9,10 @@
 7. Installation & Configuration TightVNC Poste Client
 8. Test connexion TightVNC
 9. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
-10. FAQ probleme technique et amélioration possibles
+10. FAQ problèmes techniques et améliorations possibles
 
 ### 1. Pré-requis techniques
-- Poste serveur : Windows serveur 2022, firewall desactivé, Remote management et Remote Desktop activé, Firewall désactivé
+- Poste serveur : Windows serveur 2022, firewall desactivé, Remote management et Remote Desktop activés, Firewall désactivé
 - Poste serveur : Windows 10 Pro, firewall desactivé
 
 ### 2. Configuration Poste Serveur
@@ -20,7 +20,7 @@
 
 **Serveur Manager**
 
-• Dans serveur manager, se rendre dans **local server**
+• Dans **Serveur Manager**, se rendre dans **Local Server**
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-1.png?raw=true)
 
 Vérifier les points suivants:
@@ -34,48 +34,48 @@ Vérifier les points suivants:
 
 **Adresse IP**
 
-• Ouvrer le menu démarrer, cherchez le **panel control** puis ouvrez-le
+• Ouvrir le menu *Démarrer*, chercher le **Panel Control**. Ouvrir le **Panel Control**.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png?raw=true)
 
-• Sélectionner la façon dont vous voyez les dossier, choisir “**large ou small”**
+• Définir la préférence pour afficher les dossiers : "**large**" ou "**small**".
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-3.png?raw=true)
 
 
-• Ouvrer “**Network and Sharing center**”
+• Ouvrir “**Network and Sharing center**”.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-4.png?raw=true)
 
-• Aller ensuite dans la catégorie “**change adapter settings”**
+• Aller dans la catégorie “**Change adapter settings”**.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-5.png?raw=true)
 
-• Sélectionner la carte **“ethernet 2”**
+• Sélectionner la carte **“Ethernet 2”**.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-6.png?raw=true)
 
-• Effectuer un clic droit puis sélectionner “**properties**” 
+• Effectuer un clic droit puis sélectionner “**Properties**”. 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-7.png?raw=true)
   
-• Sélectionner “**Internet Protocol Version 4(TCP/IPV4)**” puis cliquer à nouveaux sur “**properties**”
+• Sélectionner “**Internet Protocol Version 4(TCP/IPV4)**” puis cliquer sur “**Properties**”.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-8.png?raw=true)
   
-• Dans IP adresse, rentrez les valeurs suivante: “**172.16.10.10**”, 
-Dans “Subnet Mask/masque de sous réseaux”:”**255.255.255.0”**
+• Dans "**IP adresse**", rentrer les valeurs suivantes: “**172.16.10.10**”, 
+puis dans: “Subnet Mask/masque de sous réseaux”:”**255.255.255.0”**.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-9.png?raw=true)
 
 
 **Firewall/Pare-feu**
 
-• Ouvrir le menu démarrer, cherchez le **panel control** puis ouvrez-le 
+• Ouvrir le menu *Démarrer*, chercher le **Panel Control**. Ouvrir le "**Panel Control**". 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png?raw=true)
   
-• Sélectionner “**Systemes and Securities**”
+• Sélectionner “**Systemes and Securities**”.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-10.png?raw=true)
   
-• Ouvrir “**Windows Defender Firewall**”
+• Ouvrir “**Windows Defender Firewall**”.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-11.png?raw=true)
   
-• Sélectionner “**Turn Windows defender firewall on or off**”
+• Sélectionner “**Turn Windows Defender Firewall on or off**”.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-12.png?raw=true)
   
-• Désactiver les settings public et privé
+• Désactiver les "*settings*" *privés* et *publics*.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-13.png?raw=true)
 
 ### 3. Configuration Poste Client
