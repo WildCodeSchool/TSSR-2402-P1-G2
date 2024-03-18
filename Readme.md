@@ -48,13 +48,14 @@ Taches Semaine 1 :
 Role Semaine 2 :
 | PO | SM |
 |:-: |:-:
-| Luca Pouilly | Bruno Serna |
+| Damien Legay | Charles Caulier |
 
 Taches Semaine 2 :
 | Tache | Personne |
 |:-: |:-:
-| | |
-|  |  |
+| Rédaction documentations | Luca Pouilly, Nicolas Maggiori |
+| Réalisation démonstration logiciels | Damien Legay, Charles Caulier |
+| Ecriture script PowerShell | Bruno Serna |
 
 ### 4. Choix technique
 
@@ -74,7 +75,7 @@ Logiciel de prise en main à distance
 - TightVNC Version 2.8.81 ( logiciel gratuit et OpenSource )
 - Bureau d'accès à distance ( solution native de Windows )
 
-### 5. Difficulté & solution trouvé
+### 5. Difficultés & solutions trouvées
 
-### 6. Amélioration 
+### 6. Améliorations 
 
