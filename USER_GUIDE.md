@@ -3,11 +3,11 @@
 
 ## Sommaire
 1. Utilité de la téléassitance
-2. Utilisation basique bureau d'accès à distance
-3. Utilisation basique TightVNC
-4. Utilisation avancé bureau d'accès à distance
-5. Utilisation avancé TightVNC
-6. FAQ bureau d'accès à distance
+2. Utilisation basique Bureau d'accès à distance
+3. Utilisation avancée Bureau d'accès à distance
+4. Utilisation basique TightVNC
+5. Utilisation avancée TightVNC
+6. FAQ Bureau d'accès à distance
 7. FAQ TightVNC
 8. Annexes
 
@@ -44,17 +44,17 @@ Avec le contrôle à distance vous intervenez quasiment dans les mêmes conditio
 
 
 
-### 3. Utilisation basique TightVNC
+### 3. Utilisation avancée Bureau d'accès à distance
 
 
 
 
-### 4. Utilisation avancé Bureau d'accès à distance
+### 4. Utilisation basique TightVNC
 
 
 
 
-### 5. Utilisation avancé TightVNC
+### 5. Utilisation avancée TightVNC
 
 
 
