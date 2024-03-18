@@ -3,12 +3,12 @@
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TAexemple.png)
 
 ## Sommaire 
-1. Présentaiton du projet et Objectif
+1. Présentaiton du projet et Objectifs
 2. Mise en contexte
 3. Présentaiton de l'équipe
-4. Choix technqiue
-5. Difficulté & solution trouvé
-6. Amélioration
+4. Choix techniques
+5. Difficultés & solutions trouvées
+6. Améliorations
 
    
 ### 1. Présentaiton du projet et objectif
