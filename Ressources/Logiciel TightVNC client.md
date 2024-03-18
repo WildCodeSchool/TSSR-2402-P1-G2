@@ -2,7 +2,7 @@
 
 télécharger et installer TightVNC Viewer : <http://www.tightvnc.com/download.php>
 
-![](Aspose.Words.fec98584-ffde-4546-ad08-bc8045e413c7.001.png)![Capture de la section d'installation sous Windows sur le site de TightVNC, avec l'option 32-bit et l'option 64-bit.](Aspose.Words.fec98584-ffde-4546-ad08-bc8045e413c7.002.png)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/lien%20t%C3%A9l%C3%A9chargement.png)
 
 Une fois installé, il y a juste à suivre les étapes indiquées en image.
 
