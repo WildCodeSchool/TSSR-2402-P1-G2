@@ -143,6 +143,38 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ### 4. Configuration Bureau d'accès à distance
 
 
+### ***ACTIVER LE BUREAU A DISTANCE***
+
+#
+- Se rendre dans le menu "**DEMARRER**".
+
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20%20demarrer.jpg?raw=true>)
+
+#
+- Aller dans "**PARAMETRES**".
+
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20parametre.jpg>)
+
+#
+- Cliquer sur "**SYSTEME**".
+
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20systeme.jpg>)
+
+#
+- Aller dans "**BUREAU A DISTANCE**"
+
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20bureau%20a%20distance.jpg>)
+
+#
+- Cocher l'onglet "**ACTIVER LE BUREAU A DISTANCE**".
+
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20activer.jpg>)
+
+#
+- Puis "**CONFIRMER**" pour valider l'activation.
+
+![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20confirmer.jpg>)
+
 ### 5. Test & Connexion Bureau d'accès à distance
 #
 - Se rendre dans "**BARRE DES TACHES**".
