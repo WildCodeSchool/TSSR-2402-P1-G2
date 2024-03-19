@@ -141,11 +141,6 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 
 
 ### 4. Configuration Bureau d'accès à distance
-insérer doc faites par charles
-
-### 5. Test & Connexion Bureau d'accès à distance
-
-
 #
 - Se rendre dans "**BARRE DES TACHES**".
 
@@ -177,6 +172,9 @@ insérer doc faites par charles
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20mot%20de%20passe.jpg>)
 
 ![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20%20valider.jpg>)
+
+### 5. Test & Connexion Bureau d'accès à distance
+
 
 ### 6. Installation & Configuration TightVNC Poste Serveur
 insérer doc faites par Damien
