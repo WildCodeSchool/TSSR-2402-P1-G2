@@ -1,21 +1,18 @@
 # Guide d'installation et mise en place de la Téléassistance
 ## Sommaire
 1. Pré-requis techniques
-2. Configuration Poste Serveur
-3. Configuration Poste Client
-4. Configuration Bureau d'accès à distance
-5. Test et connexion Bureau d'accès à distance
-6. Installation & Configuration TightVNC Poste Serveur
-7. Installation & Configuration TightVNC Poste Client
-8. Test connexion TightVNC
-9. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
-10. FAQ problèmes techniques et améliorations possibles
+2. Configurations Poste Serveur et Poste Client
+3. Configuration et test connexion du Bureau d'accès à distance
+4. Installation & Configuration TightVNC Poste Serveur et Poste Client
+5. Test connexion TightVNC
+6. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
+7. FAQ problèmes techniques et améliorations possibles
 
 ### 1. Pré-requis techniques
 - Poste serveur : Windows serveur 2022, firewall desactivé, Remote management et Remote Desktop activés, Firewall désactivé
 - Poste serveur : Windows 10 Pro, firewall desactivé
 
-### 2. Configuration Poste Serveur
+### 2. Configurations Poste Serveur et Poste Client
 **Configuration Serveur windows**
 
 **Serveur Manager**
@@ -78,7 +75,7 @@ puis dans: “Subnet Mask/masque de sous réseaux”:”**255.255.255.0”**.
 • Désactiver les "*settings*" *privés* et *publics*.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-13.png?raw=true)
 
-### 3. Configuration Poste Client
+### Configuration Poste Client
 
 #### Configuration adresse IP
 
@@ -140,7 +137,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Valider l’opération en cliquant sur “OK”.
 
 
-### 4. Configuration Bureau d'accès à distance
+### 4. Configuration et test connexion du Bureau d'accès à distance
 
 
 ### ***ACTIVER LE BUREAU A DISTANCE***
@@ -175,7 +172,8 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 
 ![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20confirmer.jpg>)
 
-### 5. Test & Connexion Bureau d'accès à distance
+### Test connexion
+
 #
 - Se rendre dans "**BARRE DES TACHES**".
 
@@ -208,10 +206,9 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 
 ![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20%20valider.jpg>)
 
-### 6. Installation & Configuration TightVNC Poste Serveur
+### 4. Installation & Configuration TightVNC Poste Serveur et Poste Client
 insérer doc faites par Damien
 
-### 7. Installation & Configuration TightVNC Poste Client
 ﻿**Logiciel TightVNC client**
 
 Télécharger et installer TightVNC Viewer : <http://www.tightvnc.com/download.php>
@@ -256,10 +253,10 @@ Aller dans le disque dur de votre ordinateur > Program Files > rentrer dans le d
 
 Ceci est l’icône qui devrait apparaître sur votre Bureau.
 
-### 8. Test connexion TightVNC
+### 5. Test connexion TightVNC
 insérer doc faites par Damien
 
-### 9. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
+### 6. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
 
 Renseigner dans la barre de recherche en bas à gauche de votre écran : “TightVNC Service - Offline Configuration". Cliquer sur l'application du même nom.
 
@@ -288,5 +285,5 @@ Ne pas oublier d'appliquer nos options à l'utilisation de TightVNC en cliquant 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/assets/158192308/e7a30f8d-0600-4826-8c6e-cd19ff4b7815)
 
 
-### 10. FAQ probleme technique et amélioration possibles
+### 7. FAQ probleme technique et amélioration possibles
 doc commune
