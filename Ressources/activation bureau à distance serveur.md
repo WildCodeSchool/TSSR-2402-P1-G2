@@ -8,7 +8,7 @@
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20start.jpg)
 
 #
-- Aller dans le " **SETTINGS** "
+- Aller dans " **SETTINGS** "
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20settings.jpg)
 
