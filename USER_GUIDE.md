@@ -45,9 +45,13 @@ CHARLES
 ### 3. Utilisation du logiciel TightVNC
 
 
-\_Voici l'explication de connection sur **TightVnc** Viewer\_:
+Voici l'explication de connection sur **TightVnc** Viewer:
 
-Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre:
+Double clique sur l'icon de lancement
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC9.png)
+
+Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TighVnc%20ouverture.png)
 
@@ -55,7 +59,8 @@ ou
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
 
-Il est possible de se connecter soit par le nom du server soit par son adresse IP.
+Il est possible de se connecter soit par le nom du server soit par son adresse IP.   
+Puis inserer le mot de passe : Azerty1*
 
 Nous avons un onglet option établi par défaut 
 
