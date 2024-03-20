@@ -283,13 +283,14 @@ Demande de confirmation de Windows
 
 Le panneau suivant est important car il permet de **sécuriser** l’installation de TightVNC sur le poste. Il s’agit ici de définir **deux mots de passe différents** :
 
-- **Le premier** mot de passe va permettre de **sécuriser la prise de contrôle** à distance sur ce poste. **Chaque client** VNC souhaitant s’y connecter devra connaître ce mot de passe ;
-- **Le second** permet de **sécuriser le comportement et la configuration** de TighVNC sur ce poste. **Chaque modification** dans la configuration ou l’exécution du serveur TightVNC devra être confirmée avec ce mot de passe.
+- **Le premier** mot de passe va permettre de **sécuriser la prise de contrôle** à distance sur ce poste. **Chaque client** VNC souhaitant s’y connecter devra connaître ce mot de passe (Nous avons choisit **Remote1***) ;
+- **Le second** permet de **sécuriser le comportement et la configuration** de TighVNC sur ce poste. **Chaque modification** dans la configuration ou l’exécution du serveur TightVNC devra être confirmée avec ce mot de passe (Nous avons choisit **Admin5-**) .
+
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ6.png)
 
-Définition des mots de passe
-
+Définition des mots de passe  
 N’hésitez pas à saisir les mots de passe « **forts** », c’est à dire avec au moins un **caractère spécial**, un **chiffre** et une **majuscule.**
+
 
 Voilà ! L’installation se termine ici. Nous allons maintenant vérifier que tout s’est bien passé.
 
@@ -404,11 +405,64 @@ Aller dans le disque dur de votre ordinateur > Program Files > rentrer dans le d
 Ceci est l’icône qui devrait apparaître sur votre Bureau.
 
 ### 5. Test connexion TightVNC
-insérer doc faites par Damien
+
+Double clique sur l'icon de lancement du logociel.
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC9.png)
+
+Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TighVnc%20ouverture.png)
+
+Il est possible de se connecter soit par le nom du server (SRVWIN01) soit par son adresse IP (172.16.10.10).
+Puis inserer le mot de passe : Remote1* (Ou celui que vous avez défini lors l'installaiton de TightVNC sur le poste serveur)
+
+Nous avons un onglet option établi par défaut 
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
+
+Il y a toujours la possibilité de jouer avec les paramètres par défaut pour améliorer l'utilisation (pour le moment vous pouvez les laissez par défaut)  
+
+Appuyé sur **Conenct** pour lancer la connexion.
+Une fois connecté(e) vous devriez avoir ce rendu.  
+L'affichage d'un écran noir en fond sur le poste Serveur est normal.  
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20%C3%A9crans.png)
+
+Il y a une barre d'icônes en haut de la fenêtre de TightVNC.  
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20barre%20d'icons.jpg)
+
+De gauche à droite : 
+- nouvelle connexion: permet d'ouvrir une nouvelle connexion en plus de la première
+- sauvegarde 
+- ouverture des options
+- info connexion
+- pause 
+- actualisation image
+- raccourci ctrl+alt+del
+- raccourci ctrl+esc
+- raccourci ctrl
+- raccourci alt
+- transfert de fichier entre client/server
+- zoomer
+- dézoomer
+- zoomer par pourcentage
+- zoom auto
+- plein écran
+
+Essayer de naviguer dans les différents répertoire du poste serveur depuis TightVNC pour vérifier qu'il n'y a pas de souci ou de ralentissement.  
+Le cas échéant référez-vous à la FAQ plus bas.  
+
+Une fois la connexion testé, appuyer sur le bouton de sauvegarde et enregistrez le raccourcit sur le bureau avec le nom suviant : **config_co_pserv**  
+Répondre **No** à la question, cela empèche le logiciel de conserver le mot de passe de connexion.
+
+Double cliquez sur le raccourcit nouvellement créé sur le bureau et l'image suivante devrait apparaitre :  
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
 
 ### 6. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
 
-Renseigner dans la barre de recherche en bas à gauche de votre écran : “TightVNC Service - Offline Configuration". Cliquer sur l'application du même nom.
+Depuis le poste serveur renseigner dans la barre de recherche en bas à gauche de votre écran : “TightVNC Service - Offline Configuration". Cliquer sur l'application du même nom.
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/assets/158192308/bd6ada6d-48fe-4aae-96bd-7cebea294301)
 
