@@ -5,29 +5,29 @@
 #
 - Lorsque l'on est prêt, on va dans le menu " **START** "
 
-![](Images/ACTIV SERV start.jpg)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20start.jpg)
 
 #
 - Aller dans le " **SETTINGS** "
 
-![](Images/ACTIV SERV settings.jpg)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20settings.jpg)
 
 #
 - Aller dans " **SYSTEM** " 
 
-![](Images/ACTIV SERV systeme.jpg)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20systeme.jpg)
 
 #
 - Aller dans " **REMOTE DESKTOP** "
 
-![](Images/ACTIV SERV remote desktop.jpg)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20remote%20desktop.jpg)
 
 #
 - Cocher l'onglet " **ENABLE REMOTE DESKTOP** "
 
-![](Images/ACTIV SERV enable.jpg)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20enable.jpg)
 
 #
 - Puis " **CONFIRM** " pour valider l'activation
 
-![](Images/ACTIV SERV confim.jpg)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20confim.jpg?raw=true)
