@@ -77,5 +77,23 @@ Logiciel de prise en main à distance
 
 ### 5. Difficultés & solutions trouvées
 
+- Lors de la première connexion avec TightVNC, on a eu un ecran noir côté poste client, impossible de voir ce qu'on l'on faisait sur le poste serveur.
+  - Paramétrage à revoir côté serveur de TighVNC pour optimisr la connexion.
+- Lenteur de la prise en main à distance via TighVNC.
+  - Possibilté de changer les paramètre côté viewer (diminution de la qualité graphique) pour aovir moins de latence
+- Optimiser le code pour l'initialisaiton du script powershell
+
 ### 6. Améliorations 
+
+- Faire écoluer le script pour demander à l'utilisateur si il souhaite personnaliser sa demande de connexion avec différents paramètres :
+  - Affichage en plein écran ou non
+  - Résolution d'affichage
+  - Partage de dossier entre les deux postes
+  - Autre possiblitées
+
+- Voir comment mettre en place une connexion si les deux postes ne sont pas sur le même réseau.
+  - Autre solution logiciel
+  - Utilisaiton d'un VPN
+  - Solution payante ou gratuite 
+
 
