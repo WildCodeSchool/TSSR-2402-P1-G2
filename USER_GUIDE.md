@@ -72,10 +72,10 @@ Il y a une barre d'icônes en haut de la fenêtre de TightVNC.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20barre%20d'icons.jpg)
 
 De gauche à droite : 
-- nouvelle connection: permet d'ouvrir une nouvelle connection en plus de la première
+- nouvelle connexion: permet d'ouvrir une nouvelle connexion en plus de la première
 - sauvegarde 
 - ouverture des options
-- info connection
+- info connexion
 - pause 
 - actualisation image
 - raccourci ctrl+alt+del
