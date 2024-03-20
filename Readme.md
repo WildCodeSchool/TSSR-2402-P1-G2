@@ -34,12 +34,12 @@ Durant tout le projet les rôles et taches de chacun sont répartis de la façon
 
 Rôle Semaine 1 :
 | PO | SM |
-|:-: |:-:
+|:-: |:-:|
 | Luca Pouilly | Bruno Serna |
 
 Taches Semaine 1 :
 | Tache | Personne |
-|:-: |:-:
+|:-: |:-:|
 | Configuraiton VM Poste Serveur | Luca Pouilly |
 | Configuraiton VM Poste Client | Nicolas Maggiori |
 | Bureau d'accès à distance | Charles Caulier |
@@ -48,12 +48,12 @@ Taches Semaine 1 :
 
 Rôle Semaine 2 :
 | PO | SM |
-|:-: |:-:
+|:-: |:-:|
 | Damien Legay | Charles Caulier |
 
 Taches Semaine 2 :
 | Tache | Personne |
-|:-: |:-:
+|:-: |:-:|
 | Rédaction documentations | Luca Pouilly, Nicolas Maggiori |
 | Réalisation démonstration logiciels | Damien Legay, Charles Caulier |
 | Ecriture script PowerShell | Bruno Serna |
