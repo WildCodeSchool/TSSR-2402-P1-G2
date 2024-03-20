@@ -38,8 +38,35 @@ Avec le contrôle à distance vous intervenez quasiment dans les mêmes conditio
 ### 2. Utilisation du Bureau d'accès à distance de Windows
 
 
-CHARLES
+Voici l'explication de la connexion du **Bureau A Distance**
 
+Double clique sur l'icône de lancement situé sur le bureau
+
+![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_shortcut.png>)
+
+Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
+
+![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20ip.jpg>)
+
+Cliquer sur connexion puis inserer le mot de passe : Azerty1* (definit par votre administrateur) 
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20MDP.jpg)
+
+Une fois connecté(e) vous devriez avoir ce rendu
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connecte%C3%A9%20serv.jpg)
+
+Il y a une barre d'icone en haut de votre fenêtre
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Barre%20info.jpg)
+
+De gauche à droite :
+- épingler : permet d'épingler cette barre en haut de l'écran (si décochée, elle disparait sous 3 sec et réapparait en passant la souris dessus)
+- barres réseaux : permet de connaitre l'intensité du signal réseaux
+- adresse IP (ou nom) : permet de savoir sur quel poste on travail
+- reduire : permet de reduire la fenêtre dans la barre des tâches
+- niveau inferieur : permet de rétrecir la fenêtre
+- fermer : ferme et quitte la session de travail
 
 
 ### 3. Utilisation du logiciel TightVNC
