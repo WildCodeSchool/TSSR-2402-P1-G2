@@ -321,7 +321,7 @@ De plus, vous pouvez également retrouver la règle ajoutée pour TightVNC dans 
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ10.png)
 
-
+(Cette partie n'est à prendre en compte que si les parefeu sont restés activés sur le poste serveur !)
 Règle de TightVNC Server du Firewall
 
 
