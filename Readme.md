@@ -20,6 +20,7 @@
    - Script Powershell pour faciliter la connexion initiale de la téléassitance.
 
 ### 2. Mise en contexte
+Mettre en place d'une téléassitance d'un poster Serveur depuis un poste distant pour faciliter les opération de maintenance le tout depuis un accès sécurisé.
 
 ### 3. Présentation de l'équipe
 L'équipe pour le projet est constituée des personnes suivantes :
