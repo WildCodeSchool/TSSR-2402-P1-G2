@@ -196,6 +196,8 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Nom d'utilisateur : Administrator
 - Mot de passe : Azerty1*
 
+![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20adresse%20ip.jpg>)
+
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%201%20connexion.jpg>)
 
 #
