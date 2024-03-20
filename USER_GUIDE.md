@@ -45,9 +45,9 @@ CHARLES
 ### 3. Utilisation du logiciel TightVNC
 
 
-Voici l'explication de connection sur **TightVnc** Viewer:
+Voici l'explication de connexion sur **TightVnc** Viewer:
 
-Double clique sur l'icone de lancement situé sur le bureau
+Double clique sur l'icône de lancement situé sur le bureau
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/vnc_shortcut.png)
 
@@ -55,7 +55,7 @@ Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
 
-Puis inserer le mot de passe : Remote1* (définit par votre administrateur)
+Puis insérer le mot de passe : Remote1* (définit par votre administrateur)
 
 
 Une fois connecté(e) vous devriez avoir ce rendu.
@@ -85,24 +85,24 @@ De gauche à droite :
 - zoom auto
 - plein écran
 
-En cliquant sur le bouton option, cela vous permet d'ajuster les paramètre de la prise en main :
+En cliquant sur le bouton option, cela vous permet d'ajuster les paramètres de la prise en main :
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
 
-Si vous notez des ralentissement ou un peu de lantence dans l'exécution de votre prise en main.
-Vous pouvez jouez sur les paramètre suivants :
-- Laissez l'option **Preferred encoding" sur Tigh c'est le format que préconise l'editeur du logiciel
-- Cocher **256 colors**, cela affichera le poste serveur en 256 colours et donc améliora grandement la latence entre les deux poste*s
-- Vous pouvez aussi jouez sur le taux de compression **Set custom compression level**
-- Vous pouvez aussi baissez la qualité des images en cochant **Allow JPEG, set image quality** et en passant la qualité sur **poor*
+Si vous notez des ralentissements ou un peu de latence dans l'exécution de votre prise en main:
+Vous pouvez jouez sur les paramètres suivants :
+- Laissez l'option "**Prefered encoding**" sur *Tigh*. C'est le format conseillé par l'éditeur du logiciel.
+- Cocher **256 colors**, cela affichera le poste serveur en 256 colours et donc améliorera grandement la latence entre les deux postes.
+- Vous pouvez aussi jouer sur le taux de compression **Set custom compression level**.
+- Vous pouvez aussi baissez la qualité des images en cochant **Allow JPEG, set image quality** et en mettant la qualité sur **poor**.
 
-Les autres paramètre sont aussi interessent :
+Les autres paramètres sont aussi intéressants :
 - Dans la partie **Display** :
-  - Afficher en plein ecran via la case à cocher **Full-screen mode**
-  - Encore via l'option **Scale-by** changer la mise à l'echelle (par défaut à 100%)
+  - Afficher en plein écran via la case à cocher **Full-screen mode**
+  - Encore via l'option **Scale-by** changer la mise à l'échelle (par défaut à 100%)
 - Dans la partie **Mouse** et **Mouse Cursor**
-  - Changer l'affichage du pointeur de la souris
-- Ainsi que d'autre options que vous pouvez explorer
+  - Changez l'affichage du pointeur de la souris
+- Ainsi que d'autres options que vous pouvez alors explorer.
 
 
 ### 4. FAQ
