@@ -5,29 +5,29 @@
 #
 - Lorsque l'on est prêt, on va dans le menu " **START** "
 
-![](file:///c%3A/Users/bugch/Images/ACTIV%20SERV%20start.jpg)
+![](Images/ACTIV SERV start.jpg)
 
 #
 - Aller dans le " **SETTINGS** "
 
-![](file:///c%3A/Users/bugch/Images/ACTIV%20SERV%20settings.jpg)
+![](Images/ACTIV SERV settings.jpg)
 
 #
 - Aller dans " **SYSTEM** " 
 
-![](file:///c%3A/Users/bugch/Images/ACTIV%20SERV%20systeme.jpg)
+![](Images/ACTIV SERV systeme.jpg)
 
 #
 - Aller dans " **REMOTE DESKTOP** "
 
-![](file:///c%3A/Users/bugch/Images/ACTIV%20SERV%20remote%20desktop.jpg)
+![](Images/ACTIV SERV remote desktop.jpg)
 
 #
 - Cocher l'onglet " **ENABLE REMOTE DESKTOP** "
 
-![](file:///c%3A/Users/bugch/Images/ACTIV%20SERV%20enable.jpg)
+![](Images/ACTIV SERV enable.jpg)
 
 #
 - Puis " **CONFIRM** " pour valider l'activation
 
-![](file:///c%3A/Users/bugch/Images/ACTIV%20SERV%20confim.jpg)
+![](Images/ACTIV SERV confim.jpg)
