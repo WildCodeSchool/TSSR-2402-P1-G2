@@ -3,13 +3,9 @@
 
 ## Sommaire
 1. Utilité de la téléassitance
-2. Utilisation basique Bureau d'accès à distance
-3. Utilisation avancée Bureau d'accès à distance
-4. Utilisation basique TightVNC
-5. Utilisation avancée TightVNC
-6. FAQ Bureau d'accès à distance
-7. FAQ TightVNC
-8. Annexes
+2. Utilisation du Bureau d'accès à distance de Windows
+3. Utilisation du logiciel TightVNC
+4. FAQ 
 
 
 
@@ -39,28 +35,24 @@ Avec le contrôle à distance vous intervenez quasiment dans les mêmes conditio
 
 
 
-### 2. Utilisation basique Bureau d'accès à distance
+### 2. Utilisation du Bureau d'accès à distance de Windows
+
+
+CHARLES
 
 
 
-
-### 3. Utilisation avancée Bureau d'accès à distance
-
+### 3. Utilisation du logiciel TightVNC
 
 
-
-### 4. Utilisation basique TightVNC
+DAMIEN
 
 
 
-
-### 5. Utilisation avancée TightVNC
-
+### 4. FAQ
 
 
-
-### 6. FAQ Bureau d'accès à distance
-
+### Bureau d'accès à distance
 
 Pourquoi ne puis-je pas me connecter à l’aide du Bureau à distance ?
 
@@ -91,7 +83,7 @@ Le client web prend en charge Windows, macOS, Linux et ChromeOS. Il ne prend pas
 
 
 
-### 7. FAQ TightVNC
+### TightVNC
 
 
 #### Quelles sont les versions de Windows supportées par TightVNC ?
@@ -116,4 +108,3 @@ Si vous avez besoin d'une partie visionneuse sur Mac OS X, essayez TightVNC Java
 Notez également que les versions récentes de Mac OS X comprennent un serveur VNC intégré qui est également compatible avec TightVNC. En d'autres termes, vous pouvez vous connecter à n'importe quel système Mac OS X moderne avec TightVNC Viewer. 
 
 
-### 8. Annexes
