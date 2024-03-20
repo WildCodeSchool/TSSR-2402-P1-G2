@@ -199,7 +199,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%201%20connexion.jpg>)
 
 #
-- Renseigner dans le champs, l'adresse IP ou le nom de l'ordinateur dans l'onglet "**ORDINATEUR**".
+- Lors des prochaines connexions, renseigner dans le champs, l'adresse IP ou le nom de l'ordinateur dans l'onglet "**ORDINATEUR**".
 - Adresse IP : 172.16.10.10
 - Nom de l'ordinateur : SRVWIN01
 
