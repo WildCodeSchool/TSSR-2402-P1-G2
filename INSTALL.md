@@ -406,24 +406,24 @@ Ceci est l’icône qui devrait apparaître sur votre Bureau.
 
 ### 5. Test connexion TightVNC
 
-Double clique sur l'icon de lancement du logociel.
+Double clique sur l'icône de lancement du logiciel.
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC9.png)
 
-Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
+Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre:
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TighVnc%20ouverture.png)
 
 Il est possible de se connecter soit par le nom du server (SRVWIN01) soit par son adresse IP (172.16.10.10).
-Puis inserer le mot de passe : Remote1* (Ou celui que vous avez défini lors l'installaiton de TightVNC sur le poste serveur)
+Puis insérer le mot de passe : Remote1* (ou celui que vous avez défini lors l'installaiton de TightVNC sur le poste serveur).
 
 Nous avons un onglet option établi par défaut 
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
 
-Il y a toujours la possibilité de jouer avec les paramètres par défaut pour améliorer l'utilisation (pour le moment vous pouvez les laissez par défaut)  
+Il y a toujours la possibilité de jouer avec les paramètres par défaut pour améliorer l'utilisation.
 
-Appuyé sur **Conenct** pour lancer la connexion.
+Appuyer sur **Connect** pour lancer la connexion.
 Une fois connecté(e) vous devriez avoir ce rendu.  
 L'affichage d'un écran noir en fond sur le poste Serveur est normal.  
 
@@ -451,11 +451,11 @@ De gauche à droite :
 - zoom auto
 - plein écran
 
-Essayer de naviguer dans les différents répertoire du poste serveur depuis TightVNC pour vérifier qu'il n'y a pas de souci ou de ralentissement.  
+Essayer de naviguer dans les différents répertoires du poste serveur depuis TightVNC pour vérifier que vous ne rencontrez pas de problèmes ou de ralentissements.  
 Le cas échéant référez-vous à la FAQ plus bas.  
 
-Une fois la connexion testé, appuyer sur le bouton de sauvegarde et enregistrez le raccourcit sur le bureau avec le nom suviant : **config_co_pserv**  
-Répondre **No** à la question, cela empèche le logiciel de conserver le mot de passe de connexion.
+Une fois la connexion testée, appuyer sur le bouton de sauvegarde et enregistrer le raccourci sur le bureau avec le nom suivant : **config_co_pserv**  
+Répondre "**No**" à la question, cela empêche le logiciel de conserver le mot de passe de connexion.
 
 Double cliquez sur le raccourcit nouvellement créé sur le bureau et l'image suivante devrait apparaitre :  
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
