@@ -140,37 +140,38 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ### 3. Configuration et test connexion du Bureau d'accès à distance
 
 
-### ***ACTIVER LE BUREAU A DISTANCE***
+### ***ACTIVER LE BUREAU A DISTANCE SERVEUR***
 
 #
-- Se rendre dans le menu "**DEMARRER**".
+- Lorsque l'on est prêt, on va dans le menu " **START** "
 
-![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20%20demarrer.jpg?raw=true>)
-
-#
-- Aller dans "**PARAMETRES**".
-
-![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20parametre.jpg>)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20start.jpg)
 
 #
-- Cliquer sur "**SYSTEME**".
+- Aller dans " **SETTINGS** "
 
-![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20systeme.jpg>)
-
-#
-- Aller dans "**BUREAU A DISTANCE**"
-
-![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20bureau%20a%20distance.jpg>)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20settings.jpg)
 
 #
-- Cocher l'onglet "**ACTIVER LE BUREAU A DISTANCE**".
+- Aller dans " **SYSTEM** " 
 
-![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20activer.jpg>)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20systeme.jpg)
 
 #
-- Puis "**CONFIRMER**" pour valider l'activation.
+- Aller dans " **REMOTE DESKTOP** "
 
-![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20confirmer.jpg>)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20remote%20desktop.jpg)
+
+#
+- Cocher l'onglet " **ENABLE REMOTE DESKTOP** "
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20enable.jpg)
+
+#
+- Puis " **CONFIRM** " pour valider l'activation
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20confim.jpg?raw=true)
+
 
 ### Test connexion
 
@@ -188,6 +189,14 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Cliquer sur l'application "**CONNEXION BUREAU A DISTANCE**".
 
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connex%20bad.jpg>)
+
+#
+- Lors de la première connexion, renseigner l'adresse IP ainsi que le nom de l'utilisateur et son mot de passe.
+- Adresse IP : 172.16.10.10
+- Nom d'utilisateur : Administrator
+- Mot de passe : Azerty1*
+
+![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%201%20connexion.jpg>)
 
 #
 - Renseigner dans le champs, l'adresse IP ou le nom de l'ordinateur dans l'onglet "**ORDINATEUR**".
