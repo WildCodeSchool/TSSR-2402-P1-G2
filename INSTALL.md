@@ -451,7 +451,7 @@ De gauche à droite :
 - zoom auto
 - plein écran
 
-Essayer de naviguer dans les différents répertoires du poste serveur depuis TightVNC pour vérifier que vous ne rencontrez pas de problèmes ou de ralentissements.  
+Naviguez dans les différents répertoires du poste serveur depuis TightVNC pour vérifier que vous ne rencontrez pas de problèmes ou de ralentissements.  
 Le cas échéant référez-vous à la FAQ plus bas.  
 
 Une fois la connexion testée, appuyer sur le bouton de sauvegarde et enregistrer le raccourci sur le bureau avec le nom suivant : **config_co_pserv**  
@@ -477,7 +477,7 @@ Cliquer sur le bouton "Add" pour paramétrer la ou les adresses IP considérées
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/assets/158192308/cea50dac-c67a-4c8f-826d-5a1c21b56422)
 
 
-Dans la case "First matching", entrer l'adresse IP du poste client concerné (dans notre cas 172.16.10.20). Si vous souhaitez étendre la plage des adresses IP concernées, alors remplir la case "Last matching IP" au-dessous avec la dernière adresse IP voulue. Dans le cas contraire, laisser cette case vide. Il est alors possible de donner l'accès "Allow", refuser l'accès "Deny" ou encore de laisser le choix à l'utilisateur par le biais d'une fenêtre qui s'ouvrira lors de la requête de téléassistance émise par le poste client "Query local user".
+Dans la case "First matching", entrez l'adresse IP du poste client concerné (dans notre cas 172.16.10.20). Si vous souhaitez étendre la plage des adresses IP concernées, alors remplir la case "Last matching IP" au-dessous avec la dernière adresse IP voulue. Dans le cas contraire, laissez cette case vide. Il est alors possible de donner l'accès "Allow", refusez l'accès ("Deny") ou encore de laisser le choix à l'utilisateur par le biais d'une fenêtre qui s'ouvrira lors de la requête de téléassistance émise par le poste client "Query local user".
 Dans notre cas, et pour des raisons de sécurité et de contrôle, nous cochons cette dernière et appuyons sur "OK".
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/assets/158192308/5aef92f3-fbad-4a32-a15b-d47370a4774b)
