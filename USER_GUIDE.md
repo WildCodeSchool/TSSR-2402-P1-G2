@@ -47,30 +47,21 @@ CHARLES
 
 Voici l'explication de connection sur **TightVnc** Viewer:
 
-Double clique sur l'icon de lancement
+Double clique sur l'icone de lancement situé sur le bureau
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC9.png)
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/vnc_shortcut.png)
 
 Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TighVnc%20ouverture.png)
-
-ou
-
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
 
-Il est possible de se connecter soit par le nom du server soit par son adresse IP.   
-Puis inserer le mot de passe : Azerty1*
+Puis inserer le mot de passe : Remote1* (définit par votre administrateur)
 
-Nous avons un onglet option établi par défaut 
-
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
-
-Il y a toujours la possibilité de jouer avec les paramètres par défaut pour améliorer l'utilisation
 
 Une fois connecté(e) vous devriez avoir ce rendu.
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20%C3%A9crans.png)
+L'affichage d'un écran noir en fond sur le poste Serveur est normal.
 
 Il y a une barre d'icônes en haut de la fenêtre de TightVNC.
 
@@ -94,6 +85,24 @@ De gauche à droite :
 - zoom auto
 - plein écran
 
+En cliquant sur le bouton option, cela vous permet d'ajuster les paramètre de la prise en main :
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
+
+Si vous notez des ralentissement ou un peu de lantence dans l'exécution de votre prise en main.
+Vous pouvez jouez sur les paramètre suivants :
+- Laissez l'option **Preferred encoding" sur Tigh c'est le format que préconise l'editeur du logiciel
+- Cocher **256 colors**, cela affichera le poste serveur en 256 colours et donc améliora grandement la latence entre les deux poste*s
+- Vous pouvez aussi jouez sur le taux de compression **Set custom compression level**
+- Vous pouvez aussi baissez la qualité des images en cochant **Allow JPEG, set image quality** et en passant la qualité sur **poor*
+
+Les autres paramètre sont aussi interessent :
+- Dans la partie **Display** :
+  - Afficher en plein ecran via la case à cocher **Full-screen mode**
+  - Encore via l'option **Scale-by** changer la mise à l'echelle (par défaut à 100%)
+- Dans la partie **Mouse** et **Mouse Cursor**
+  - Changer l'affichage du pointeur de la souris
+- Ainsi que d'autre options que vous pouvez explorer
 
 
 ### 4. FAQ
