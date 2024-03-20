@@ -45,9 +45,9 @@ CHARLES
 ### 3. Utilisation du logiciel TightVNC
 
 
-\_Voici l'explication de connection sur **TightVnc** viewer\_:
+\_Voici l'explication de connection sur **TightVnc** Viewer\_:
 
-une fois le logiciel lancé, on devrait avoir cette fenetre qui s'ouvre:
+Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre:
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TighVnc%20ouverture.png)
 
@@ -55,31 +55,31 @@ ou
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
 
-il est possible de se connecter soit par le nom du server ou par son adresse IP.
+Il est possible de se connecter soit par le nom du server soit par son adresse IP.
 
-nous avons un onglet option etablie par defaut 
+Nous avons un onglet option établi par défaut 
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
 
-il y a toujours la possibilité de jouer avec les parametres par défaut pour ameliorer l'utilisation
+Il y a toujours la possibilité de jouer avec les paramètres par défaut pour améliorer l'utilisation
 
-une fois connecté vous devriez avoir se rendu.
+Une fois connecté(e) vous devriez avoir ce rendu.
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20%C3%A9crans.png)
 
-il y a une barre d'icons en haut de la fenetre de tightVnc
+Il y a une barre d'icônes en haut de la fenêtre de TightVNC.
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20barre%20d'icons.jpg)
 
-de gauche a droite : 
-- nouvelle connection: permet d'ouvrir une nouvelle connection en plus de la premiere
+De gauche à droite : 
+- nouvelle connection: permet d'ouvrir une nouvelle connection en plus de la première
 - sauvegarde 
 - ouverture des options
 - info connection
 - pause 
 - actualisation image
-- raccourci ctrl alt  del
-- raccourci ctrl esc
+- raccourci ctrl+alt+del
+- raccourci ctrl+esc
 - raccourci ctrl
 - raccourci alt
 - transfert de fichier entre client/server
