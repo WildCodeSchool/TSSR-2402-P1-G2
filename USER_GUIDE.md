@@ -226,7 +226,7 @@ Vous pouvez jouez sur les paramètres suivants :
 
 #### Lors de la connexion, je ne vois juste un fond uni, aucune incône ou encore je ne peux pas naviguer sur le poste serveur ?
 
-Contactez l'administrateur ou la personne qui à configurez le poste, expliquez lui votre problème. il pourra revoir le paramétrage de son côté solutionner vorre peroblème.
+Contactez l'administrateur ou la personne qui à configurez le poste, expliquez lui votre problème. il pourra revoir le paramétrage de son côté et solutionner vorre peroblème.
 
 ### Script de connexion
 
