@@ -509,12 +509,12 @@ Ne pas oublier d'appliquer nos options à l'utilisation de TightVNC en cliquant 
 ### 7. Utilisation d'un script powershell pour faciliter la connexion au poste serveur
 
 Pour faciliter la connexion à distance à l'utilsateur, il est possible d'utiliser un script powershell.  
-A son execution le script demandera à l'utilisateur si il veut faire la télémainance via TightVNC ou via le Bureau d'accès à Dsitance, en cas de choix incorrect ou non reconnut pas le script, un message sera renvoyé et le script s'arrétera.
-Il est très important d'avoir enregistrer les deux raccourcit de connexion pour les solutions sur le bureau avec les nom donnés plus haut. Si ce n'est pas le cas, il ne sera pas fonctionnel.
-Il est aussi très important d'enregistrer le scripts dans le dossier Mes Documents de l'utilsateur de la session qui lancera le script depuis le poste client.
-Dans notre cas le nom de l'utilisateur est "**Wilder**" et donc le script est enregistré ici :  "**C:\Users\wilder\Documents**".
-Vous pouvez récupérer le script directement :  [ICI](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip) .
-Vous trouverez trois fichiers :
+A son execution le script demandera à l'utilisateur si il veut faire la télémainance via TightVNC ou via le Bureau d'accès à Dsitance, en cas de choix incorrect ou non reconnut pas le script, un message sera renvoyé et le script s'arrétera.  
+Il est très important d'avoir enregistrer les deux raccourcit de connexion pour les solutions sur le bureau avec les nom donnés plus haut. Si ce n'est pas le cas, il ne sera pas fonctionnel.  
+Il est aussi très important d'enregistrer le scripts dans le dossier Mes Documents de l'utilsateur de la session qui lancera le script depuis le poste client.  
+Dans notre cas le nom de l'utilisateur est "**Wilder**" et donc le script est enregistré ici :  "**C:\Users\wilder\Documents**".  
+Vous pouvez récupérer le script directement :  [ICI](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip).  
+Vous trouverez trois fichiers :  
 - Script_assitance.ps1 ==> script powershell.
 - Assitance.lnk ==> raccourcit pour lancer le script via l'ancienne version de powershell.
 - Assitance 2.lnk ==> raccourcit pour lancer le script via la version de powershell 7.
