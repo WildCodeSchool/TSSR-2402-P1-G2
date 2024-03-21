@@ -607,7 +607,7 @@ _**Lors de la connexion depuis le poste client, je ne vois juste un fond uni, au
 
 Depuis le poste serveur, ouvrer le menu de configuraiton TighVNC serveur (reprendre la méthode donnée dans la partie 6. pour y accéder).
 
-Sur cette page là, décocher le **Use D3D driver if available**.
+Sur cette page là, décocher le **Use D3D driver if available**.  
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option_vnc_serveur.png)
 
 
