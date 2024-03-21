@@ -224,7 +224,7 @@ Vous pouvez jouez sur les paramètres suivants :
 - Vous pouvez aussi jouer sur le taux de compression **Set custom compression level**.
 - Vous pouvez aussi baissez la qualité des images en cochant **Allow JPEG, set image quality** et en mettant la qualité sur **poor**.
 
-##### Lors de la connexion, je ne vois juste un fond uni, aucune incône ou encore je ne peux pas naviguer sur le poste serveur ?
+- Lors de la connexion, je ne vois juste un fond uni, aucune incône ou encore je ne peux pas naviguer sur le poste serveur ?
 
 Contactez l'administrateur ou la personne qui à configurez le poste, expliquez lui votre problème. il pourra revoir le paramétrage de son côté et solutionner vorre peroblème.
 
