@@ -215,6 +215,9 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 #
 - Pour faciliter les prochaines connexions, nous allons créer un raccourcit.
 - Relancer le logiciel "**CONNEXION BUREAU A DISTANCE**" et cette fois appuyer sur sur la flèche allant vers le bas "**AFFICHER LES OPTIONS**"
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Option_RDP.jpg)
+
 - Reneeigner une nouvelle fois les champs "**ORDINATEUR**" et "**NOM D'UTILISATEUR**" avec les données précédentes.
 - Cliquer sur "**ENREGISTRER SOUS**"
 - Nommer le fichier RDP et le sauvegarder sur le Bureau.
