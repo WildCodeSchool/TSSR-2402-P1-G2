@@ -5,7 +5,8 @@
 1. Utilité de la téléassitance
 2. Utilisation du Bureau d'accès à distance de Windows
 3. Utilisation du logiciel TightVNC
-4. FAQ 
+4. Utilisation du script d'assitance
+5. FAQ 
 
 
 
@@ -131,11 +132,34 @@ Les autres paramètres sont aussi intéressants :
   - Changez l'affichage du pointeur de la souris
 - Ainsi que d'autres options que vous pouvez alors explorer.
 
+### 4. Uilisation du script d'assitance
 
-### 4. FAQ
+Il est possible qu'il soit installé sur votre poste un raccourcit qui vous permet de faciliter la connexion à un des deux logiciels de télémaintenance.
 
+Vous devriez avoir sur le bureau une des deux icones suivantes :  
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_assit.png)
+
+Il suffit de double cliquez dessus et la fenêtre suivante apparait :  
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_1.png)
+
+Après vous avoir saluer le script vous demande quel solution voulez vous utilisez, si vous rentrez une commande autre que "**1**" ou "**2**", le script vous signale une erreur et se ferme.  
+Il suffit de le relancer et d'entrée la bonne commande pour que cela fonctionne.  
+
+Image pour choix TightVNC.  
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_2.png)
+
+Image pour choix Bureau à Distance.  
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_3.png)
+
+Image si erreur de commande.  
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_4.png)
+
+
+### 5. FAQ
 
 ### Bureau d'accès à distance
+
 
 Pourquoi ne puis-je pas me connecter à l’aide du Bureau à distance ?
 
@@ -164,8 +188,6 @@ Voici quelques solutions possibles aux problèmes courants que vous pouvez renco
 
 Le client web prend en charge Windows, macOS, Linux et ChromeOS. Il ne prend pas en charge les appareils mobiles pour l’instant.
 
-
-
 ### TightVNC
 
 
@@ -190,4 +212,28 @@ Actuellement, nous ne proposons pas de version pour Mac OS X. Il est très proba
 Si vous avez besoin d'une partie visionneuse sur Mac OS X, essayez TightVNC Java Viewer. Il est multiplateforme et devrait fonctionner correctement sur tout système où l'environnement Java peut être installé, y compris Mac OS X.
 Notez également que les versions récentes de Mac OS X comprennent un serveur VNC intégré qui est également compatible avec TightVNC. En d'autres termes, vous pouvez vous connecter à n'importe quel système Mac OS X moderne avec TightVNC Viewer. 
 
+#### La navigation sur le poste serveur est lente ou semble laggué ?
 
+Comme expliquez plus haut vous pouvez affiner les paramètre de connexion, via les options.
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
+
+Vous pouvez jouez sur les paramètres suivants :
+- Laissez l'option "**Prefered encoding**" sur *Tigh*. C'est le format conseillé par l'éditeur du logiciel.
+- Cocher **256 colors**, cela affichera le poste serveur en 256 colours et donc améliorera grandement la latence entre les deux postes.
+- Vous pouvez aussi jouer sur le taux de compression **Set custom compression level**.
+- Vous pouvez aussi baissez la qualité des images en cochant **Allow JPEG, set image quality** et en mettant la qualité sur **poor**.
+
+#### Lors de la connexion, je ne vois juste un fond uni, aucune incône ou encore je ne peux pas naviguer sur le poste serveur ?
+
+Contactez l'administrateur ou la personne qui à configurez le poste, expliquez lui votre problème. il pourra revoir le paramétrage de son côté solutionner vorre peroblème.
+
+### Script de connexion
+
+#### Le script se lance, m'indique que la connexion est en cours mais rien s'affiche ou il se ferme tout de suite ?
+
+Contactez l'administrateur ou la personne qui à configurez le poste, il doit y avoir un problème d'éxécution.
+
+#### Au lancement du script, j'ai un message d'erreur qui m'indique que le scirpt ne peut être éxecuté. ?
+
+Contactez l'administrateur ou la personne qui à configurez le poste, il doit y avoir un problème de paramétrage.
