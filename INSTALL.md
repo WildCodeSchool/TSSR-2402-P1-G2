@@ -520,7 +520,7 @@ Vous trouverez trois fichiers :
 - Assitance 2.lnk ==> raccourcit pour lancer le script via la version de powershell 7.
 
 Le raccourcit est à placer sur le bureau pour une question de facilité d'utilisation, si vous avez la version 7 de powershell installé sur le poste client il faudra utiliser le second raccourcit ("**Assitance 2.lnk**).  
-Si ce n'est pas le cas, utiliser l'autre raccourcit. Libre à vous de les renommer comme il vous en avez envie, cela ne devrait pas entacher le bon fonctionnement du script.
+Si ce n'est pas le cas, utiliser l'autre raccourcit. Libre à vous de les renommer comme vous en avez envie, cela ne devrait pas entacher le bon fonctionnement du script.
 
 ### 8. FAQ probleme technique et amélioration possibles
 doc commune
