@@ -523,7 +523,16 @@ Vous trouverez trois fichiers :
 - Assitance 2.lnk ==> raccourcit pour lancer le script via la version de powershell 7.
 
 Le raccourcit est à placer sur le bureau pour une question de facilité d'utilisation, si vous avez la version 7 de powershell installé sur le poste client il faudra utiliser le second raccourcit ("**Assitance 2.lnk**).  
-Si ce n'est pas le cas, utiliser l'autre raccourcit. Libre à vous de les renommer comme vous en avez envie, cela ne devrait pas entacher le bon fonctionnement du script.
+Si ce n'est pas le cas, utiliser l'autre raccourcit. Libre à vous de les renommer comme vous en avez envie, cela ne devrait pas entacher le bon fonctionnement du script.  
+Il se peut que le script ne puisse s'éxécuté ou se lancer depuis le poste client vous indiquant un long message d'erreur.  
+Il faudra donc au préalble utilsé la commande suivante dans powershell en fonction administrateur :  
+
+`Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy Unrestricted`
+
+L'image suivante apparait et réponder par la lettre T (en majuscule et pas en minisucule) pour **Oui pour Tout**  
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/powershell.png)
+
+Relancer le scrit cela devrait fonctionner normalement.
 
 ### 8. FAQ probleme technique et amélioration possibles
 doc commune
