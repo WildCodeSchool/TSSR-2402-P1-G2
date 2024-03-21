@@ -6,7 +6,8 @@
 4. Installation & Configuration TightVNC Poste Serveur et Poste Client
 5. Test connexion TightVNC
 6. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
-7. FAQ problèmes techniques et améliorations possibles
+7. Utilisation d'un script powershell pour faciliter la connexion au poste serveur
+8. FAQ problèmes techniques et améliorations possibles
 
 ### 1. Pré-requis techniques
 - Poste serveur : Windows serveur 2022, firewall désactivé, Remote management et Remote Desktop activés, Firewall désactivé
@@ -140,7 +141,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ### 3. Configuration et test connexion du Bureau d'accès à distance
 
 
-### ***ACTIVER LE BUREAU A DISTANCE SERVEUR***
+### ***ACTIVER LE BUREAU A DISTANCE SUR lE POSTE SERVEUR***
 
 #
 - Lorsque l'on est prêt, on va dans le menu " **START** "
@@ -176,7 +177,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ### Test connexion
 
 #
-- Se rendre dans "**BARRE DES TACHES**".
+- Sur le poste Client, se rendre dans "**BARRE DES TACHES**".
 
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20bad.jpg>)
 
@@ -191,33 +192,39 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connex%20bad.jpg>)
 
 #
-- Lors de la première connexion, renseigner l'adresse IP ainsi que le nom de l'utilisateur et son mot de passe.
-- Adresse IP : 172.16.10.10
-- Nom d'utilisateur : Administrator
-- Mot de passe : Azerty1*
-
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20adresse%20ip.jpg>)
-
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%201%20connexion.jpg>)
-
-#
-- Lors des prochaines connexions, renseigner dans le champs, l'adresse IP ou le nom de l'ordinateur dans l'onglet "**ORDINATEUR**".
+- Lors de la première connexion, dans le champs "**ORDINATEUR**" rensigner l'adresse IP ou le nom de l'ordinateur.
 - Adresse IP : 172.16.10.10
 - Nom de l'ordinateur : SRVWIN01
-
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20adresse%20ip.jpg>)
-
-#
 - Cliquer sur "**CONNEXION**".
 
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connexion.jpg>)
 
 #
-- Renseigner le **MOT DE PASSE** de la session, puis valider avec "**OK**".
+- Renseigner les champs suivants avec le nom d'utilisateur et le mot de passe du poste Server.
+- Nom d'utilisateur : Administrator
+- Mot de passe : Azerty1*
+- Valider par OK
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20mot%20de%20passe.jpg>)
+![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%201%20connexion.jpg>)
 
-![alt text](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20%20valider.jpg>)
+#
+- Cette page va s'afficher, vérifier que la navigation est fonctionnelle et que vous pouvez faire des actions sur le poste Serveur.
+
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connecte%C3%A9%20serv.jpg)
+
+#
+- Pour faciliter les prochaines connexions, nous allons créer un raccourcit.
+- Relancer le logiciel "**CONNEXION BUREAU A DISTANCE**" et cette fois appuyer sur sur la flèche allant vers le bas "**AFFICHER LES OPTIONS**"
+- Reneeigner une nouvelle fois les champs "**ORDINATEUR**" et "**NOM D'UTILISATEUR**" avec les données précédentes.
+- Cliquer sur "**ENREGISTRER SOUS**"
+- Nommer le fichier RDP et le sauvegarder sur le Bureau.
+ 
+![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_extend_full.png)
+
+# 
+- Tester la connexion via le raccourcit et vérfier que tout fonctionne.
+  
+![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_shortcut.png>)
 
 ### 4. Installation & Configuration TightVNC Poste Serveur et Poste Client
 
@@ -499,6 +506,21 @@ Ne pas oublier d'appliquer nos options à l'utilisation de TightVNC en cliquant 
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/assets/158192308/e7a30f8d-0600-4826-8c6e-cd19ff4b7815)
 
+### 7. Utilisation d'un script powershell pour faciliter la connexion au poste serveur
 
-### 7. FAQ probleme technique et amélioration possibles
+Pour faciliter la connexion à distance à l'utilsateur, il est possible d'utiliser un script powershell.  
+A son execution le script demandera à l'utilisateur si il veut faire la télémainance via TightVNC ou via le Bureau d'accès à Dsitance, en cas de choix incorrect ou non reconnut pas le script, un message sera renvoyé et le script s'arrétera.
+Il est très important d'avoir enregistrer les deux raccourcit de connexion pour les solutions sur le bureau avec les nom donnés plus haut. Si ce n'est pas le cas, il ne sera pas fonctionnel.
+Il est aussi très important d'enregistrer le scripts dans le dossier Mes Documents de l'utilsateur de la session qui lancera le script depuis le poste client.
+Dans notre cas le nom de l'utilisateur est "**Wilder**" et donc le script est enregistré ici :  "**C:\Users\wilder\Documents**".
+Vous pouvez récupérer le script directement :  [ICI](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip) .
+Vous trouverez trois fichiers :
+- Script_assitance.ps1 ==> script powershell.
+- Assitance.lnk ==> raccourcit pour lancer le script via l'ancienne version de powershell.
+- Assitance 2.lnk ==> raccourcit pour lancer le script via la version de powershell 7.
+
+Le raccourcit est à placer sur le bureau pour une question de facilité d'utilisation, si vous avez la version 7 de powershell installé sur le poste client il faudra utiliser le second raccourcit ("**Assitance 2.lnk**).  
+Si ce n'est pas le cas, utiliser l'autre raccourcit. Libre à vous de les renommer comme il vous en avez envie, cela ne devrait pas entacher le bon fonctionnement du script.
+
+### 8. FAQ probleme technique et amélioration possibles
 doc commune
