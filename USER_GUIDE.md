@@ -161,7 +161,7 @@ Image si erreur de commande.
 ### Bureau d'accès à distance
 
 
-Pourquoi ne puis-je pas me connecter à l’aide du Bureau à distance ?
+##### Pourquoi ne puis-je pas me connecter à l’aide du Bureau à distance ?
 
 Voici quelques solutions possibles aux problèmes courants que vous pouvez rencontrer lorsque vous tentez de vous connecter à un PC distant. Si ces solutions ne fonctionnent pas, vous trouverez plus d’informations sur le site web de Microsoft Community.
 
@@ -184,14 +184,14 @@ Voici quelques solutions possibles aux problèmes courants que vous pouvez renco
 **Le PC à distance est peut-être désactivé**. Vous ne pouvez pas vous connecter à un PC qui est désactivé, en veille ou en veille prolongée. Par conséquent, vérifiez que les paramètres de mise en veille et veille prolongée sur un PC distant sont définis sur **Jamais**. Remarque : La mise en veille prolongée n’est pas disponible pour tous les PC.
 
 
-#### Quels PC puis-je utiliser pour accéder au client web ?
+##### Quels PC puis-je utiliser pour accéder au client web ?
 
 Le client web prend en charge Windows, macOS, Linux et ChromeOS. Il ne prend pas en charge les appareils mobiles pour l’instant.
 
 ### TightVNC
 
 
-#### Quelles sont les versions de Windows supportées par TightVNC ?
+##### Quelles sont les versions de Windows supportées par TightVNC ?
 
 TightVNC fonctionne en principe sur toutes les versions de Windows (les systèmes 32 bits et 64 bits sont pris en charge) :
     Windows XP / Vista / 7 / 8 / 8.1 / 10 / 11,
@@ -200,19 +200,19 @@ Sous Windows XP, vous devez avoir installé le dernier Service Pack. Les systèm
 Il n'y a pas d'exigences minimales en matière d'espace disque ou de mémoire vive. TightVNC utilise si peu d'espace et de mémoire qu'il peut fonctionner partout où Windows est en cours d'exécution.
 Les versions antérieures 1.2 et 1.3 de TightVNC présentent toutefois certaines limitations. Il n'est pas possible d'utiliser TightVNC Server en tant que service système sur Windows Vista / Windows 7 dans ce cas. 
 
-#### Comment quitter le mode plein écran de TightVNC Viewer ?
+##### Comment quitter le mode plein écran de TightVNC Viewer ?
 
 Pour quitter le mode plein écran de TightVNC Viewer pour Windows, vous pouvez utiliser la combinaison de clavier Ctrl-Alt-Shift-F.
 La raison de cette combinaison de clavier complexe est que nous devons utiliser un raccourci clavier qui n'est pas susceptible d'être utilisé par des applications normales. Si une combinaison est utilisée comme raccourci clavier dans la visionneuse TightVNC, elle sera traitée localement dans la visionneuse et ne sera donc pas transmise au serveur VNC, ce qui peut poser des problèmes avec les applications distantes qui utilisent le même raccourci clavier.
 Dans nos applications modernes telles que Remote Ripple et MightyViewer, il est beaucoup plus facile de quitter le mode plein écran. Il suffit de déplacer le pointeur de la souris sur le bord supérieur de l'écran et une barre d'outils flottante apparaît, dans laquelle vous pouvez choisir de quitter le mode plein écran. 
 
-#### TightVNC fonctionne-t-il sur Mac OS X ?
+##### TightVNC fonctionne-t-il sur Mac OS X ?
 
 Actuellement, nous ne proposons pas de version pour Mac OS X. Il est très probable que TightVNC en propose une à l'avenir, mais pas dans les jours qui viennent. Actuellement, notre équipe est occupée à travailler sur la version Windows.
 Si vous avez besoin d'une partie visionneuse sur Mac OS X, essayez TightVNC Java Viewer. Il est multiplateforme et devrait fonctionner correctement sur tout système où l'environnement Java peut être installé, y compris Mac OS X.
 Notez également que les versions récentes de Mac OS X comprennent un serveur VNC intégré qui est également compatible avec TightVNC. En d'autres termes, vous pouvez vous connecter à n'importe quel système Mac OS X moderne avec TightVNC Viewer. 
 
-#### La navigation sur le poste serveur est lente ou semble laggué ?
+##### La navigation sur le poste serveur est lente ou semble laggué ?
 
 Comme expliquez plus haut vous pouvez affiner les paramètre de connexion, via les options.
 
@@ -224,16 +224,16 @@ Vous pouvez jouez sur les paramètres suivants :
 - Vous pouvez aussi jouer sur le taux de compression **Set custom compression level**.
 - Vous pouvez aussi baissez la qualité des images en cochant **Allow JPEG, set image quality** et en mettant la qualité sur **poor**.
 
-#### Lors de la connexion, je ne vois juste un fond uni, aucune incône ou encore je ne peux pas naviguer sur le poste serveur ?
+##### Lors de la connexion, je ne vois juste un fond uni, aucune incône ou encore je ne peux pas naviguer sur le poste serveur ?
 
 Contactez l'administrateur ou la personne qui à configurez le poste, expliquez lui votre problème. il pourra revoir le paramétrage de son côté et solutionner vorre peroblème.
 
 ### Script de connexion
 
-#### Le script se lance, m'indique que la connexion est en cours mais rien s'affiche ou il se ferme tout de suite ?
+##### Le script se lance, m'indique que la connexion est en cours mais rien s'affiche ou il se ferme tout de suite ?
 
 Contactez l'administrateur ou la personne qui à configurez le poste, il doit y avoir un problème d'éxécution.
 
-#### Au lancement du script, j'ai un message d'erreur qui m'indique que le scirpt ne peut être éxecuté. ?
+##### Au lancement du script, j'ai un message d'erreur qui m'indique que le scirpt ne peut être éxecuté. ?
 
 Contactez l'administrateur ou la personne qui à configurez le poste, il doit y avoir un problème de paramétrage.
