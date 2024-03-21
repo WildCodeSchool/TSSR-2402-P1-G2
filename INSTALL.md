@@ -9,8 +9,8 @@
 7. FAQ problèmes techniques et améliorations possibles
 
 ### 1. Pré-requis techniques
-- Poste serveur : Windows serveur 2022, firewall desactivé, Remote management et Remote Desktop activés, Firewall désactivé
-- Poste serveur : Windows 10 Pro, firewall desactivé
+- Poste serveur : Windows serveur 2022, firewall désactivé, Remote management et Remote Desktop activés, Firewall désactivé
+- Poste serveur : Windows 10 Pro, firewall désactivé
 
 ### 2. Configurations Poste Serveur et Poste Client
 **Configuration Serveur windows**
