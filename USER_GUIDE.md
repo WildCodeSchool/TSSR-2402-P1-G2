@@ -113,7 +113,7 @@ De gauche à droite :
 - zoom auto
 - plein écran
 
-En cliquant sur le bouton option, cela vous permet d'ajuster les paramètres de la prise en main :
+En cliquant sur le bouton *Options*, cela vous permet d'ajuster les paramètres de la prise en main :
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
 
