@@ -387,7 +387,7 @@ Télécharger et installer TightVNC Viewer : <http://www.tightvnc.com/download
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/lien%20t%C3%A9l%C3%A9chargement.png)
 
-Une fois installé, il suffit de suivre les étapes telles qu'indiqué dans les images.
+Une fois installé, il suffit de suivre les étapes telles qu'indiquées dans les images.
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVnc1.png)
 
@@ -478,7 +478,7 @@ Le cas échéant référez-vous à la FAQ plus bas.
 Une fois la connexion testée, appuyer sur le bouton de sauvegarde et enregistrer le raccourci sur le bureau avec le nom suivant : **config_co_pserv**  
 Répondre "**No**" à la question, cela empêche le logiciel de conserver le mot de passe de connexion.
 
-Double cliquez sur le raccourcit nouvellement créé sur le bureau et l'image suivante devrait apparaitre :  
+Double cliquez sur le raccourci nouvellement créé sur le bureau et l'image suivante devrait apparaître :  
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
 
 ### 6. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
@@ -512,29 +512,29 @@ Ne pas oublier d'appliquer nos options à l'utilisation de TightVNC en cliquant 
 ### 7. Utilisation d'un script powershell pour faciliter la connexion au poste serveur
 
 Pour faciliter la connexion à distance à l'utilsateur, il est possible d'utiliser un script powershell.  
-A son execution le script demandera à l'utilisateur si il veut faire la télémainance via TightVNC ou via le Bureau d'accès à Dsitance, en cas de choix incorrect ou non reconnut pas le script, un message sera renvoyé et le script s'arrétera.  
-Il est très important d'avoir enregistrer les deux raccourcit de connexion pour les solutions sur le bureau avec les nom donnés plus haut. Si ce n'est pas le cas, il ne sera pas fonctionnel.  
-Il est aussi très important d'enregistrer le scripts dans le dossier Mes Documents de l'utilsateur de la session qui lancera le script depuis le poste client.  
+A son exécution le script demandera à l'utilisateur s'il veut faire la télémaintenance via TightVNC ou via le Bureau d'accès à Dsitance, en cas de choix incorrect ou non reconnu pas le script, un message sera renvoyé et le script s'arrêtera.  
+Il est très important d'avoir enregistré les deux raccourcis de connexion pour les solutions sur le bureau avec les noms donnés plus haut. Si ce n'est pas le cas, il ne sera pas fonctionnel.  
+Il est aussi très important d'enregistrer le scripts dans le dossier *Mes Documents* de l'utilsateur de la session qui lancera le script depuis le poste client.  
 Dans notre cas le nom de l'utilisateur est "**Wilder**" et donc le script est enregistré ici :  "**C:\Users\wilder\Documents**".  
-Vous pouvez récupérer le script directement :  [ICI](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip).  
+Vous pouvez récupérer le script directement grâce au lien suivant :  [ICI](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip).  
 Vous trouverez trois fichiers :  
 - Script_assitance.ps1 ==> script powershell.
-- Assitance.lnk ==> raccourcit pour lancer le script via l'ancienne version de powershell.
-- Assitance 2.lnk ==> raccourcit pour lancer le script via la version de powershell 7.
+- Assitance.lnk ==> raccourci pour lancer le script via l'ancienne version de PowerShell.
+- Assitance 2.lnk ==> raccourci pour lancer le script via la version de PowerShell 7.
 
-Le raccourcit est à placer sur le bureau pour une question de facilité d'utilisation, si vous avez la version 7 de powershell installé sur le poste client il faudra utiliser le second raccourcit ("**Assitance 2.lnk**).  
-Si ce n'est pas le cas, utiliser l'autre raccourcit. Libre à vous de les renommer comme vous en avez envie, cela ne devrait pas entacher le bon fonctionnement du script.  
-Il se peut que le script ne puisse s'éxécuté ou se lancer depuis le poste client vous indiquant un long message d'erreur.  
-Il faudra donc au préalble utilsé la commande suivante dans powershell en fonction administrateur :  
+Le raccourci est à placer sur le bureau pour une question de facilité d'utilisation, si vous avez la version 7 de PowerShell installée sur le poste client il faudra utiliser le second raccourci ("**Assitance 2.lnk**).  
+Si ce n'est pas le cas, utiliser l'autre raccourci. Libre à vous de les renommer comme vous voulez, cela ne devrait pas empêcher le bon fonctionnement du script.  
+Il se peut que le script ne puisse s'éxécuter ou se lancer depuis le poste client vous indiquant un long message d'erreur.  
+Il faudra donc au préalble utilser la commande suivante dans PowerShell en fonction *Administrateur* :  
 
 `Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy Unrestricted`
 
-L'image suivante apparait et réponder par la lettre T (en majuscule et pas en minisucule) pour **Oui pour Tout**  
+L'image suivante apparait. Réponder par la lettre T (en majuscule et pas en minisucule) pour **Oui pour Tout**  
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/powershell.png)
 
-Relancer le scrit cela devrait fonctionner normalement.
+Relancer le scrit, et cela devrait fonctionner normalement.
 
-### 8. FAQ probleme technique
+### 8. FAQ
 
 
 ### Bureau d'accès à distance
