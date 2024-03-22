@@ -41,7 +41,7 @@ Avec le contrôle à distance vous intervenez quasiment dans les mêmes conditio
 
 Voici l'explication de la connexion du **Bureau A Distance**
 
-Double clique sur l'icône de lancement situé sur le bureau
+Double clique sur l'icône de lancement située sur le bureau
 
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_shortcut.png>)
 
@@ -49,7 +49,7 @@ Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
 
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20ip.jpg>)
 
-Cliquer sur connexion puis inserer le mot de passe : Azerty1* (definit par votre administrateur) 
+Cliquer sur connexion puis insérer le mot de passe : Azerty1* (defini par votre administrateur) 
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20MDP.jpg)
 
@@ -57,17 +57,17 @@ Une fois connecté(e) vous devriez avoir ce rendu
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connecte%C3%A9%20serv.jpg)
 
-Il y a une barre d'icone en haut de votre fenêtre
+Il y a une barre d'icônes en haut de votre fenêtre
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Barre%20info.jpg)
 
 De gauche à droite :
-- épingler : permet d'épingler cette barre en haut de l'écran (si décochée, elle disparait sous 3 sec et réapparait en passant la souris dessus)
-- barres réseaux : permet de connaitre l'intensité du signal réseaux
-- adresse IP (ou nom) : permet de savoir sur quel poste on travail
-- reduire : permet de reduire la fenêtre dans la barre des tâches
-- niveau inferieur : permet de rétrecir la fenêtre
-- fermer : ferme et quitte la session de travail
+- épingler : permet d'épingler cette barre en haut de l'écran (si décochée, elle disparait sous 3 secondes et réapparait en passant la souris dessus)
+- barres réseaux : permet de connaître l'intensité du signal réseau
+- adresse IP (ou nom) : permet de savoir sur quel poste nous travaillons
+- réduire : permet de reduire la fenêtre dans la barre des tâches
+- niveau inférieur : permet de réduire la fenêtre
+- fermer : ferme et quitte la session de travail actuelle
 
 
 ### 3. Utilisation du logiciel TightVNC
@@ -75,7 +75,7 @@ De gauche à droite :
 
 Voici l'explication de connexion sur **TightVnc** Viewer:
 
-Double clique sur l'icône de lancement situé sur le bureau
+Double clique sur l'icône de lancement située sur le bureau
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/vnc_shortcut.png)
 
@@ -83,7 +83,7 @@ Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
 
-Puis insérer le mot de passe : Remote1* (définit par votre administrateur)
+Puis insérer le mot de passe : Remote1* (défini par votre administrateur)
 
 
 Une fois connecté(e) vous devriez avoir ce rendu.
@@ -118,11 +118,11 @@ En cliquant sur le bouton *Options*, cela vous permet d'ajuster les paramètres 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
 
 Si vous notez des ralentissements ou un peu de latence dans l'exécution de votre prise en main:
-Vous pouvez jouez sur les paramètres suivants :
+Vous pouvez jouer sur les paramètres suivants :
 - Laissez l'option "**Prefered encoding**" sur *Tigh*. C'est le format conseillé par l'éditeur du logiciel.
-- Cocher **256 colors**, cela affichera le poste serveur en 256 colours et donc améliorera grandement la latence entre les deux postes.
+- Cocher **256 colors**, cela affichera le poste serveur en *256 colours* et donc améliorera grandement la latence entre les deux postes.
 - Vous pouvez aussi jouer sur le taux de compression **Set custom compression level**.
-- Vous pouvez aussi baissez la qualité des images en cochant **Allow JPEG, set image quality** et en mettant la qualité sur **poor**.
+- Vous pouvez aussi baisser la qualité des images en cochant **Allow JPEG, set image quality** et en mettant la qualité sur **poor**.
 
 Les autres paramètres sont aussi intéressants :
 - Dans la partie **Display** :
@@ -134,17 +134,17 @@ Les autres paramètres sont aussi intéressants :
 
 ### 4. Uilisation du script d'assitance
 
-Il est possible qu'il soit installé sur votre poste un raccourcit qui vous permet de faciliter la connexion à un des deux logiciels de télémaintenance.
+Il est possible qu'il soit installé sur votre poste un raccourci qui vous permet de faciliter la connexion à un des deux logiciels de télémaintenance.
 
-Vous devriez avoir sur le bureau une des deux icones suivantes :  
+Vous devriez avoir sur le bureau une des deux icônes suivantes :  
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_assit.png)
 
-Il suffit de double cliquez dessus et la fenêtre suivante apparait :  
+Il suffit de double cliquer dessus et la fenêtre suivante apparait :  
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_1.png)
 
-Après vous avoir saluer le script vous demande quel solution voulez vous utilisez, si vous rentrez une commande autre que "**1**" ou "**2**", le script vous signale une erreur et se ferme.  
-Il suffit de le relancer et d'entrée la bonne commande pour que cela fonctionne.  
+Après vous avoir salué(e) le script vous demande quel solution vous souhaitez utiliser, si vous rentrez une commande autre que "**1**" ou "**2**", le script vous signale une erreur et se ferme.  
+Il suffit de le relancer et d'entrer la bonne commande pour que cela fonctionne.  
 
 Image pour choix TightVNC.  
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_2.png)
