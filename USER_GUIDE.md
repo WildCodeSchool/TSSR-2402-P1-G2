@@ -41,7 +41,7 @@ Avec le contrôle à distance vous intervenez quasiment dans les mêmes conditio
 
 Voici l'explication de la connexion du **Bureau A Distance**
 
-Double clique sur l'icône de lancement située sur le bureau
+Double-clic sur l'icône de lancement située sur le bureau
 
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_shortcut.png>)
 
@@ -75,7 +75,7 @@ De gauche à droite :
 
 Voici l'explication de connexion sur **TightVnc** Viewer:
 
-Double clique sur l'icône de lancement située sur le bureau
+Double-clic sur l'icône de lancement située sur le bureau
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/vnc_shortcut.png)
 
@@ -134,12 +134,12 @@ Les autres paramètres sont aussi intéressants :
 
 ### 4. Uilisation du script d'assitance
 
-Il est possible qu'il soit installé sur votre poste un raccourci qui vous permet de faciliter la connexion à un des deux logiciels de télémaintenance.
+Il est possible qu'il soit installé sur votre poste un raccourci qui vous permet de faciliter la connexion à l'un des deux logiciels de télémaintenance.
 
 Vous devriez avoir sur le bureau une des deux icônes suivantes :  
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_assit.png)
 
-Il suffit de double cliquer dessus et la fenêtre suivante apparait :  
+Il suffit de double-cliquer dessus et la fenêtre suivante apparait :  
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_1.png)
 
@@ -212,28 +212,28 @@ Actuellement, nous ne proposons pas de version pour Mac OS X. Il est très proba
 Si vous avez besoin d'une partie visionneuse sur Mac OS X, essayez TightVNC Java Viewer. Il est multiplateforme et devrait fonctionner correctement sur tout système où l'environnement Java peut être installé, y compris Mac OS X.
 Notez également que les versions récentes de Mac OS X comprennent un serveur VNC intégré qui est également compatible avec TightVNC. En d'autres termes, vous pouvez vous connecter à n'importe quel système Mac OS X moderne avec TightVNC Viewer. 
 
-_**La navigation sur le poste serveur est lente ou semble laggué ?**_
+_**La navigation sur le poste serveur est lente ou semble lagguer ?**_
 
-Comme expliquez plus haut vous pouvez affiner les paramètre de connexion, via les options.
+Comme expliqué plus haut vous pouvez affiner les paramètres de connexion, via les options.
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
 
-Vous pouvez jouez sur les paramètres suivants :
+Vous pouvez jouer sur les paramètres suivants :
 - Laissez l'option "**Prefered encoding**" sur *Tigh*. C'est le format conseillé par l'éditeur du logiciel.
 - Cocher **256 colors**, cela affichera le poste serveur en 256 colours et donc améliorera grandement la latence entre les deux postes.
 - Vous pouvez aussi jouer sur le taux de compression **Set custom compression level**.
 - Vous pouvez aussi baissez la qualité des images en cochant **Allow JPEG, set image quality** et en mettant la qualité sur **poor**.
 
-_**Lors de la connexion, je ne vois juste un fond uni, aucune incône ou encore je ne peux pas naviguer sur le poste serveur ?**_
+_**Lors de la connexion, je vois juste un fond uni, aucune icône ou encore je ne peux pas naviguer sur le poste serveur ?**_
 
-Contactez l'administrateur ou la personne qui à configurez le poste, expliquez lui votre problème. il pourra revoir le paramétrage de son côté et solutionner vorre peroblème.
+Contactez l'administrateur ou la personne qui à configuré le poste, expliquez lui votre problème. il pourra revoir le paramétrage de son côté et solutionner votre problème.
 
 ### Script de connexion
 
-_**Le script se lance, m'indique que la connexion est en cours mais rien s'affiche ou il se ferme tout de suite ?**_
+_**Le script se lance, il m'indique que la connexion est en cours mais rien ne s'affiche ou se ferme tout de suite ?**_
 
-Contactez l'administrateur ou la personne qui à configurez le poste, il doit y avoir un problème d'éxécution.
+Contactez l'administrateur ou la personne qui à configuré le poste, il doit y avoir un problème d'éxécution.
 
 _**Au lancement du script, j'ai un message d'erreur qui m'indique que le scirpt ne peut être éxecuté. ?**_
 
-Contactez l'administrateur ou la personne qui à configurez le poste, il doit y avoir un problème de paramétrage.
+Contactez l'administrateur ou la personne qui à configuré le poste, il doit y avoir un problème de paramétrage.
