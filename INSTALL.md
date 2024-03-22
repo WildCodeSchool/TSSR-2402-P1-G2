@@ -1,24 +1,24 @@
 # Guide d'installation et mise en place de la Téléassistance
 ## Sommaire
 1. Pré-requis techniques
-2. Configurations Poste Serveur et Poste Client
-3. Configuration et test connexion du Bureau d'accès à distance
-4. Installation & Configuration TightVNC Poste Serveur et Poste Client
+2. Configurations poste Serveur et poste Client
+3. Configuration et test de connexion du Bureau d'accès à distance
+4. Installation et configuration TightVNC poste Serveur et poste Client
 5. Test connexion TightVNC
 6. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
-7. Utilisation d'un script powershell pour faciliter la connexion au poste serveur
-8. FAQ problèmes techniques
+7. Utilisation d'un script PowerShell pour faciliter la connexion au poste serveur
+8. FAQ
 
 ### 1. Pré-requis techniques
-- Poste serveur : Windows serveur 2022, firewall désactivé, Remote management et Remote Desktop activés, Firewall désactivé
+- Poste serveur : Windows serveur 2022, firewall désactivé, Remote management et Remote Desktop activés, firewall désactivé
 - Poste serveur : Windows 10 Pro, firewall désactivé
 
-### 2. Configurations Poste Serveur et Poste Client
+### 2. Configurations poste Serveur et poste Client
 **Configuration Serveur windows**
 
-**Serveur Manager**
+**Server Manager**
 
-• Dans **Serveur Manager**, se rendre dans **Local Server**
+• Dans **Server Manager**, se rendre dans **Local Server**
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-1.png)
 
 Vérifier les points suivants:
@@ -64,7 +64,7 @@ puis dans: “Subnet Mask/masque de sous réseaux”:”**255.255.255.0”**.
 • Ouvrir le menu *Démarrer*, chercher le **Panel Control**. Ouvrir le "**Panel Control**". 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png)
   
-• Sélectionner “**Systemes and Securities**”.
+• Sélectionner “**Systems and Securities**”.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-10.png)
   
 • Ouvrir “**Windows Defender Firewall**”.
@@ -119,9 +119,9 @@ puis dans: “Subnet Mask/masque de sous réseaux”:”**255.255.255.0”**.
 Inscrire comme adresse IP : “172.16.10.20”; et comme masque de sous-réseau : “255.255.255.0”.
 Laisser le reste par défaut et valider en appuyant sur “OK”.
 
-#### Désactivation des Pare-feu
+#### Désactivation des pare-feu
 
-- Depuis le Panneau de configuration, aller dans “Système et sécurité” > “Pare-Feu Windows Defender”
+- Depuis le *Panneau de configuration*, aller dans “Système et sécurité” > “Pare-Feu Windows Defender”
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_11.jpg)
 
@@ -138,13 +138,13 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Valider l’opération en cliquant sur “OK”.
 
 
-### 3. Configuration et test connexion du Bureau d'accès à distance
+### 3. Configuration et test de connexion du Bureau d'accès à distance
 
 
 ### ***ACTIVER LE BUREAU A DISTANCE SUR LE POSTE SERVEUR***
 
 #
-- Lorsque l'on est prêt, on va dans le menu " **START** "
+- Aller dans le menu " **START** "
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20start.jpg)
 
@@ -177,7 +177,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ### Test connexion
 
 #
-- Sur le poste Client, se rendre dans "**BARRE DES TACHES**".
+- Sur le poste Client, se rendre dans "**BARRE DES TÂCHES**".
 
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20bad.jpg>)
 
@@ -192,7 +192,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connex%20bad.jpg>)
 
 #
-- Lors de la première connexion, dans le champs "**ORDINATEUR**" rensigner l'adresse IP ou le nom de l'ordinateur.
+- Lors de la première connexion, dans le champs "**ORDINATEUR**" renseigner l'adresse IP ou le nom de l'ordinateur.
 - Adresse IP : 172.16.10.10
 - Nom de l'ordinateur : SRVWIN01
 - Cliquer sur "**CONNEXION**".
@@ -213,23 +213,23 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connecte%C3%A9%20serv.jpg)
 
 #
-- Pour faciliter les prochaines connexions, nous allons créer un raccourcit.
+- Pour faciliter les prochaines connexions, nous allons créer un raccourci.
 - Relancer le logiciel "**CONNEXION BUREAU A DISTANCE**" et cette fois appuyer sur sur la flèche allant vers le bas "**AFFICHER LES OPTIONS**"
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Option_RDP.jpg)
 
-- Reneeigner une nouvelle fois les champs "**ORDINATEUR**" et "**NOM D'UTILISATEUR**" avec les données précédentes.
+- Renseigner une nouvelle fois les champs "**ORDINATEUR**" et "**NOM D'UTILISATEUR**" avec les données précédentes.
 - Cliquer sur "**ENREGISTRER SOUS**"
 - Nommer le fichier RDP et le sauvegarder sur le Bureau.
  
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_extend_full.png)
 
 # 
-- Tester la connexion via le raccourcit et vérfier que tout fonctionne.
+- Tester la connexion via le raccourci et vérfier que tout fonctionne.
   
 ![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_shortcut.png>)
 
-### 4. Installation & Configuration TightVNC Poste Serveur et Poste Client
+### 4. Installation et configuration TightVNC poste Serveur et poste Client
 
 ﻿**Le logiciel TightVNC**
 
@@ -252,7 +252,7 @@ Téléchargeable sur https://www.tightvnc.com/download.php
 
 En résumé, TightVNC est une option populaire pour la téléassistance en raison de sa simplicité, de sa compatibilité multiplateforme et de sa gratuité. Cependant, il peut présenter des limitations en termes de sécurité et de performances par rapport à d'autres solutions commerciales. Il convient donc de peser ces avantages et inconvénients en fonction des besoins spécifiques de votre projet.
 
-**Installation et configuration sous Windows : partie server**
+**Installation et configuration sous Windows : partie serveur**
 
 TightVNC est disponible au téléchargement depuis l’adresse suivante : <https://www.tightvnc.com/download.php>.
 
@@ -272,7 +272,7 @@ Le programme d’installation propose **3 options** classiques :
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC2%20(2).png)
 
 
-Dans notre cas, je vous propose de passer par **l’installation personnalisée(Custom)**.
+Dans notre cas, je vous propose de passer par **l’installation personnalisée (Custom)**.
 
 L’étape suivante consiste à sélectionner le type d’installation. S'il s'agit du poste **qui sera contrôlé** à distance, dans ce cas il faut installer TightVNC **Server.** S’il s’agit du poste avec lequel **vous prendrez le contrôle** à distance d’un autre, il faut installer TightVNC **Client.(voir installation coté client)**
 
@@ -317,22 +317,22 @@ Voilà ! L’installation se termine ici. Nous allons maintenant vérifier que t
 
 **Que venons-nous d'installer ?**
 
-Normalement, un icône supplémentaire VNC s’est ajoutée dans la barre des tâches Windows.
+Normalement, une icône supplémentaire VNC s’est ajoutée dans la barre des tâches Windows.
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ7.png)
 
 Icône VNC dans la barre des tâches Windows
 
-Cet icône nous permet d’accéder au panneau de configuration, je reviendrai sur le sujet dans le chapitre suivant.
+Cette icône nous permet d’accéder au panneau de configuration, je reviendrai sur le sujet dans le chapitre suivant.
 
-Vous avez également des **raccourcis supplémentaires** en fonction des composants installés dans le menu Windows tels que par exemple : 
+Vous avez également des **raccourcis supplémentaires** en fonction des composants installés dans le menu Windows tels que : 
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ8.png)
 
 Raccourcis supplémentaires 
 
 
-Par ailleurs, si vous avez sélectionnez l’option d’installation de TightVNC en tant que service, vous retrouverez la ligne associée dans le menu services de Windows, telle que :
+Par ailleurs, si vous avez sélectionné l’option d’installation de TightVNC en tant que service, vous retrouverez la ligne associée dans le menu services de Windows, telle que :
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ9.png)
 
@@ -343,7 +343,7 @@ De plus, vous pouvez également retrouver la règle ajoutée pour TightVNC dans 
 
 ![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ10.png)
 
-(Cette partie n'est à prendre en compte que si les parefeu sont restés activés sur le poste serveur !)
+(Cette partie n'est à prendre en compte que si les parefeux sont restés activés sur le poste serveur !)
 Règle de TightVNC Server du Firewall
 
 
@@ -357,7 +357,7 @@ Vous pourrez constater l’ouverture de deux ports par défaut, 5800 et 5900.
 
 Les ports 5900 et 5800 sont ouverts
 
-Le port **5900** correspondant au port **d’écoute principal** de TightVNC, celui qui permet la prise de contrôle à distance. Le port **5800** permet de **s’interfacer avec le serveur** TightVNC depuis le poste client.
+Le port **5900** correspondant au port **d’écoute principal** de TightVNC, celui qui permet la prise de contrôle à distance. Le port **5800** permet de **"s’interfacer" avec le serveur** TightVNC depuis le poste client.
 
 **Démarrez automatiquement TightVNC sous Windows**
 
