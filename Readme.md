@@ -37,8 +37,8 @@ Rôle Semaine 1 :
 |:-: |:-:|
 | Luca Pouilly | Bruno Serna |
 
-Taches Semaine 1 :
-| Tache | Personne |
+Tâches Semaine 1 :
+| Tâche | Personne |
 |:-: |:-:|
 | Configuraiton VM Poste Serveur | Luca Pouilly |
 | Configuraiton VM Poste Client | Nicolas Maggiori |
@@ -51,8 +51,8 @@ Rôle Semaine 2 :
 |:-: |:-:|
 | Damien Legay | Charles Caulier |
 
-Taches Semaine 2 :
-| Tache | Personne |
+Tâches Semaine 2 :
+| Tâche | Personne |
 |:-: |:-:|
 | Rédaction documentations | Luca Pouilly, Nicolas Maggiori |
 | Réalisation démonstration logiciels | Damien Legay, Charles Caulier |
@@ -61,7 +61,7 @@ Taches Semaine 2 :
 ### 4. Choix techniques
 
 Le client est sous Windows 10
-- Nom : CLILIN01
+- Nom : CLIWIN01
 - Compte : wilder
 - Mot de passe : Azerty1*
 - Adresse IP fixe : 172.16.10.20/24
@@ -78,15 +78,15 @@ Logiciel de prise en main à distance
 
 ### 5. Difficultés & solutions trouvées
 
-- Lors de la première connexion avec TightVNC, on a eu un écran noir côté poste client, impossible de voir ce qu'on l'on faisait sur le poste serveur.
+- Lors de la première connexion avec TightVNC, on a eu un écran noir côté poste client, impossible de voir ce que l'on faisait sur le poste serveur.
   - Paramétrage à revoir côté serveur de TighVNC pour optimiser la connexion.
 - Lenteur de la prise en main à distance via TighVNC.
   - Possibilté de changer les paramètres côté viewer (diminution de la qualité graphique) pour avoir moins de latence.
-- Optimiser le code pour l'initialisaiton du script PowerShell.
+- Optimiser le code pour l'initialisation du script PowerShell.
 
 ### 6. Améliorations 
 
-- Faire évoluer le script pour demander à l'utilisateur s' il souhaite personnaliser sa demande de connexion avec différents paramètres :
+- Faire évoluer le script pour demander à l'utilisateur s'il souhaite personnaliser sa demande de connexion avec différents paramètres :
   - Affichage en plein écran ou non;
   - Résolution d'affichage;
   - Partage de dossiers entre les deux postes;
