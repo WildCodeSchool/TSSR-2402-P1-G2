@@ -1,6 +1,6 @@
 # Mise en place d'une Téléassistance
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TAexemple.png)
+![](https://github.com/Mr-Maglor/images-projet-1/blob/main/Image/TAexemple.png)
 
 ## Sommaire 
 1. Présentation du projet et objectifs
