@@ -178,17 +178,17 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 #
 - Sur le poste Client, se rendre dans "**BARRE DES TÂCHES**".
 
-![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20bad.jpg>)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20bad.jpg)
 
 #
 - Taper "**CONNEXION BUREAU A DISTANCE**".
 
-![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20%20barre%20co.jpg>)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20%20barre%20co.jpg)
 
 #
 - Cliquer sur l'application "**CONNEXION BUREAU A DISTANCE**".
 
-![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20connex%20bad.jpg>)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20connex%20bad.jpg)
 
 #
 - Lors de la première connexion, dans le champs "**ORDINATEUR**" renseigner l'adresse IP ou le nom de l'ordinateur.
@@ -196,7 +196,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Nom de l'ordinateur : SRVWIN01
 - Cliquer sur "**CONNEXION**".
 
-![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20connexion.jpg>)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20connexion.jpg)
 
 #
 - Renseigner les champs suivants avec le nom d'utilisateur et le mot de passe du poste Server.
@@ -204,7 +204,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Mot de passe : Azerty1*
 - Valider par OK
 
-![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%201%20connexion.jpg>)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%201%20connexion.jpg)
 
 #
 - Cette page va s'afficher, vérifier que la navigation est fonctionnelle et que vous pouvez faire des actions sur le poste Serveur.
@@ -226,7 +226,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 # 
 - Tester la connexion via le raccourci et vérfier que tout fonctionne.
   
-![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/RDP_shortcut.png>)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/RDP_shortcut.png)
 
 ### 4. Installation et configuration TightVNC poste Serveur et poste Client
 
