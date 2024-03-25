@@ -43,23 +43,23 @@ Voici l'explication de la connexion du **Bureau A Distance**
 
 Double-clic sur l'icône de lancement située sur le bureau
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_shortcut.png>)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/RDP_shortcut.png)
 
 Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20ip.jpg>)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20ip.jpg)
 
 Cliquer sur connexion puis insérer le mot de passe : Azerty1* (defini par votre administrateur) 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20MDP.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20MDP.jpg)
 
 Une fois connecté(e) vous devriez avoir ce rendu
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connecte%C3%A9%20serv.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20connecte%C3%A9%20serv.jpg)
 
 Il y a une barre d'icônes en haut de votre fenêtre
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Barre%20info.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Barre%20info.jpg)
 
 De gauche à droite :
 - épingler : permet d'épingler cette barre en haut de l'écran (si décochée, elle disparait sous 3 secondes et réapparait en passant la souris dessus)
@@ -77,23 +77,23 @@ Voici l'explication de connexion sur **TightVnc** Viewer:
 
 Double-clic sur l'icône de lancement située sur le bureau
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/vnc_shortcut.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/vnc_shortcut.png)
 
 Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/TightVnc%20ouverture.png)
 
 Puis insérer le mot de passe : Remote1* (défini par votre administrateur)
 
 
 Une fois connecté(e) vous devriez avoir ce rendu.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20%C3%A9crans.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/TightVnc%20%C3%A9crans.png)
 L'affichage d'un écran noir en fond sur le poste Serveur est normal.
 
 Il y a une barre d'icônes en haut de la fenêtre de TightVNC.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20barre%20d'icons.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/TightVnc%20barre%20d'icons.jpg)
 
 De gauche à droite : 
 - nouvelle connexion: permet d'ouvrir une nouvelle connexion en plus de la première
@@ -115,7 +115,7 @@ De gauche à droite :
 
 En cliquant sur le bouton *Options*, cela vous permet d'ajuster les paramètres de la prise en main :
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/option%20par%20defaut.png)
 
 Si vous notez des ralentissements ou un peu de latence dans l'exécution de votre prise en main:
 Vous pouvez jouer sur les paramètres suivants :
@@ -137,23 +137,23 @@ Les autres paramètres sont aussi intéressants :
 Il est possible qu'il soit installé sur votre poste un raccourci qui vous permet de faciliter la connexion à l'un des deux logiciels de télémaintenance.
 
 Vous devriez avoir sur le bureau une des deux icônes suivantes :  
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_assit.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/script_assit.png)
 
 Il suffit de double-cliquer dessus et la fenêtre suivante apparait :  
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_1.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/script_1.png)
 
 Après vous avoir salué(e) le script vous demande quel solution vous souhaitez utiliser, si vous rentrez une commande autre que "**1**" ou "**2**", le script vous signale une erreur et se ferme.  
 Il suffit de le relancer et d'entrer la bonne commande pour que cela fonctionne.  
 
 Image pour choix TightVNC.  
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_2.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/script_2.png)
 
 Image pour choix Bureau à Distance.  
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_3.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/script_3.png)
 
 Image si erreur de commande.  
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/script_4.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/script_4.png)
 
 
 ### 5. FAQ
@@ -216,7 +216,7 @@ _**La navigation sur le poste serveur est lente ou semble lagguer ?**_
 
 Comme expliqué plus haut vous pouvez affiner les paramètres de connexion, via les options.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/option%20par%20defaut.png)
 
 Vous pouvez jouer sur les paramètres suivants :
 - Laissez l'option "**Prefered encoding**" sur *Tigh*. C'est le format conseillé par l'éditeur du logiciel.
