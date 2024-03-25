@@ -19,8 +19,7 @@
 **Server Manager**
 
 • Dans **Server Manager**, se rendre dans **Local Server**
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-1.png)
-
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-1.png)
 Vérifier les points suivants:
 
 *   Remote management “**Enabled**” (Activer)
@@ -33,48 +32,48 @@ Vérifier les points suivants:
 **Adresse IP**
 
 • Ouvrir le menu *Démarrer*, chercher le **Panel Control**. Ouvrir le **Panel Control**.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-2.png)
 
 • Définir la préférence pour afficher les dossiers : "**large**" ou "**small**".
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-3.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-3.png)
 
 
 • Ouvrir “**Network and Sharing center**”.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-4.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-4.png)
 
 • Aller dans la catégorie “**Change adapter settings”**.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-5.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-5.png)
 
 • Sélectionner la carte **“Ethernet 2”**.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-6.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-6.png)
 
 • Effectuer un clic droit puis sélectionner “**Properties**”. 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-7.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-7.png)
   
 • Sélectionner “**Internet Protocol Version 4(TCP/IPV4)**” puis cliquer sur “**Properties**”.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-8.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-8.png)
   
 • Dans "**IP address**", rentrer les valeurs suivantes: “**172.16.10.10**”, 
 puis dans: “Subnet Mask(masque de sous réseaux)”:”**255.255.255.0”**.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-9.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-9.png)
 
 
 **Firewall/Pare-feu**
 
 • Ouvrir le menu *Démarrer*, chercher le **Panel Control**. Ouvrir le "**Panel Control**". 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-2.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-2.png)
   
 • Sélectionner “**Systems and Security**”.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-10.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-10.png)
   
 • Ouvrir “**Windows Defender Firewall**”.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-11.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-11.png)
   
 • Sélectionner “**Turn Windows Defender Firewall on or off**”.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-12.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-12.png)
   
 • Désactiver les "*settings*" *privés* et *publics*.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config%20ServeurWin-13.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config%20ServeurWin-13.png)
 
 ### Configuration Poste Client
 
@@ -82,37 +81,37 @@ puis dans: “Subnet Mask(masque de sous réseaux)”:”**255.255.255.0”**.
 
 - Renseigner dans la barre de recherche en bas à gauche de votre écran : “**Panneau de configuration**”. Cliquer sur l’onglet “Panneau de configuration”.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Config_poste_cient_1.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Config_poste_cient_1.jpg)
 
 
 - Ensuite, aller dans l’onglet “**Réseau et Internet**”.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_2.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_2.jpg)
 
 
 - Puis l’onglet “**Centre Réseau et partage**”.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_3.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_3.jpg)
 
 
 - En suivant, sur la gauche de la fenêtre, cliquer sur l’onglet “**Modifier les paramètres de la carte**”.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_4.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_4.jpg)
 
 
 - Sélectionner “**Ethernet 2***”.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_5.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_5.jpg)
 
 
 - Effectuer un clic droit > “**Propriétés**”. 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_6.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_6.jpg)
 
 
 - Sélectionner “**Protocole Internet version 4 (TCP/IPv4)**” puis cliquer sur “**Propriétés**”.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_7.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_7.jpg)
 
 
 - Décocher “Obtenir une adresse IP automatiquement” en cochant “Utiliser l’adresse IP suivante”
@@ -123,17 +122,17 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 
 - Depuis le *Panneau de configuration*, aller dans “**Système et sécurité**” > “**Pare-Feu Windows Defender**”
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_11.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_11.jpg)
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_8.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_8.jpg)
 
 - Sur la gauche de la fenêtre, aller dans l’onglet “Activer ou désactiver le Pare-Feu Windows Defender”.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_9.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_9.jpg)
 
 - Décocher “Activer le Pare-Feu Windows Defender” en cochant “Désactiver le Pare-Feu Windows Defender” pour les paramètres des réseaux privés et publics.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/config_poste_client_10.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/config_poste_client_10.jpg)
 
 - Valider l’opération en cliquant sur “OK”.
 
@@ -146,32 +145,32 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 #
 - Aller dans le menu " **START** "
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20start.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%20SERV%20start.jpg)
 
 #
 - Aller dans " **SETTINGS** "
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20settings.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%20SERV%20settings.jpg)
 
 #
 - Aller dans " **SYSTEM** " 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20systeme.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%20SERV%20systeme.jpg)
 
 #
 - Aller dans " **REMOTE DESKTOP** "
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20remote%20desktop.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%20SERV%20remote%20desktop.jpg)
 
 #
 - Cocher l'onglet " **ENABLE REMOTE DESKTOP** "
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20enable.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%20SERV%20enable.jpg)
 
 #
 - Puis " **CONFIRM** " pour valider l'activation
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%20SERV%20confim.jpg?raw=true)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%20SERV%20confim.jpg?raw=true)
 
 
 ### Test connexion
@@ -179,17 +178,17 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 #
 - Sur le poste Client, se rendre dans "**BARRE DES TÂCHES**".
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20bad.jpg>)
+![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20bad.jpg>)
 
 #
 - Taper "**CONNEXION BUREAU A DISTANCE**".
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20%20barre%20co.jpg>)
+![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20%20barre%20co.jpg>)
 
 #
 - Cliquer sur l'application "**CONNEXION BUREAU A DISTANCE**".
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connex%20bad.jpg>)
+![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20connex%20bad.jpg>)
 
 #
 - Lors de la première connexion, dans le champs "**ORDINATEUR**" renseigner l'adresse IP ou le nom de l'ordinateur.
@@ -197,7 +196,7 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Nom de l'ordinateur : SRVWIN01
 - Cliquer sur "**CONNEXION**".
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connexion.jpg>)
+![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20connexion.jpg>)
 
 #
 - Renseigner les champs suivants avec le nom d'utilisateur et le mot de passe du poste Server.
@@ -205,29 +204,29 @@ Laisser le reste par défaut et valider en appuyant sur “OK”.
 - Mot de passe : Azerty1*
 - Valider par OK
 
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/ACTIV%201%20connexion.jpg>)
+![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/ACTIV%201%20connexion.jpg>)
 
 #
 - Cette page va s'afficher, vérifier que la navigation est fonctionnelle et que vous pouvez faire des actions sur le poste Serveur.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/CONNEX%20connecte%C3%A9%20serv.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/CONNEX%20connecte%C3%A9%20serv.jpg)
 
 #
 - Pour faciliter les prochaines connexions, nous allons créer un raccourci.
 - Relancer le logiciel "**CONNEXION BUREAU A DISTANCE**" et cette fois appuyer sur sur la flèche allant vers le bas "**AFFICHER LES OPTIONS**"
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/Option_RDP.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/Option_RDP.jpg)
 
 - Renseigner une nouvelle fois les champs "**ORDINATEUR**" et "**NOM D'UTILISATEUR**" avec les données précédentes.
 - Cliquer sur "**ENREGISTRER SOUS**"
 - Nommer le fichier RDP et le sauvegarder sur le Bureau.
  
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_extend_full.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/RDP_extend_full.png)
 
 # 
 - Tester la connexion via le raccourci et vérfier que tout fonctionne.
   
-![](<https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/RDP_shortcut.png>)
+![](<https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/RDP_shortcut.png>)
 
 ### 4. Installation et configuration TightVNC poste Serveur et poste Client
 
@@ -257,26 +256,26 @@ En résumé, TightVNC est une option populaire pour la téléassistance en raiso
 TightVNC est disponible au téléchargement depuis l’adresse suivante : <https://www.tightvnc.com/download.php>.
 
 La méthode la plus simple est de télécharger le fichier compatible pour l’installateur **WindowsServer**
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/lien%20t%C3%A9l%C3%A9chargement.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/lien%20t%C3%A9l%C3%A9chargement.png)
 
 Section d'installation de TightVNC sous Windows
 
 Le fichier s’exécute sous la forme d’un **didacticiel** vous guidant pendant les étapes de l’installation.
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVnc1.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVnc1.png)
 
 Le programme d’installation propose **3 options** classiques :
 
 - L’installation **typique**, tout se passe de manière automatique avec les composants et leurs valeurs par défaut (partie serveur, partie cliente, mot de passe, emplacement sur le disque, etc.) ;
 - L’installation **Custom,** ici le programme demande confirmation et de chaque étape ;
 - L’installation **Complète,** identique à la première option, mais en incluant tous les composants disponibles. 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC2%20(2).png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC2%20(2).png)
 
 
 Dans notre cas, je vous propose de passer par **l’installation personnalisée (Custom)**.
 
 L’étape suivante consiste à sélectionner le type d’installation. S'il s'agit du poste **qui sera contrôlé** à distance, dans ce cas il faut installer TightVNC **Server.** S’il s’agit du poste avec lequel **vous prendrez le contrôle** à distance d’un autre, il faut installer TightVNC **Client.(voir installation coté client)**
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ3.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ3.png)
 
 Type d'installation : client ou serveur ?
 
@@ -290,14 +289,14 @@ Le programme d’installer propose ensuite la configuration de **4 options dist
 - Enfin, dernière option, il s’agit d’ajouter une règle dans le **Firewall** Windows afin de **laisser passer les flux réseaux** concernant TightVNC.
 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ4.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ4.png)
 
 Fenêtre de tâches additionnelles
 
 Je vous propose donc de **cocher les 4 options** proposées. Notez que Windows vous demandera très probablement confirmation de l’action, car nous ajoutons ici des règles systèmes supplémentaires.
 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ5.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ5.png)
 
 
 Demande de confirmation de Windows
@@ -307,7 +306,7 @@ Le panneau suivant est important car il permet de **sécuriser** l’installat
 - **Le premier** mot de passe va permettre de **sécuriser la prise de contrôle** à distance sur ce poste. **Chaque client** VNC souhaitant s’y connecter devra connaître ce mot de passe (Nous avons choisit : "**Remote1***") ;
 - **Le second** permet de **sécuriser le comportement et la configuration** de TighVNC sur ce poste. **Chaque modification** dans la configuration ou l’exécution du serveur TightVNC devra être confirmée avec ce mot de passe (Nous avons choisit : "**Admin5-**") .
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ6.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ6.png)
 
 Définition des mots de passe  
 N’hésitez pas à saisir les mots de passe « **forts** », c’est à dire avec au moins un **caractère spécial**, un **chiffre** et une **majuscule.**
@@ -319,7 +318,7 @@ Voilà ! L’installation se termine ici. Nous allons maintenant vérifier que t
 
 Normalement, une icône supplémentaire VNC s’est ajoutée dans la barre des tâches Windows.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ7.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ7.png)
 
 Icône VNC dans la barre des tâches Windows
 
@@ -327,21 +326,21 @@ Cette icône nous permet d’accéder au panneau de configuration, je reviendrai
 
 Vous avez également des **raccourcis supplémentaires** en fonction des composants installés dans le menu Windows tels que : 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ8.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ8.png)
 
 Raccourcis supplémentaires 
 
 
 Par ailleurs, si vous avez sélectionné l’option d’installation de TightVNC en tant que service, vous retrouverez la ligne associée dans le menu services de Windows, telle que :
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ9.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ9.png)
 
 Service de TightVNC dans le menu services Windows
 
 De plus, vous pouvez également retrouver la règle ajoutée pour TightVNC dans le **Firewall** de Windows telle que :
 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ10.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ10.png)
 
 (Cette partie n'est à prendre en compte que si les pare-feux sont restés activés sur le poste serveur !)
 Règle de TightVNC Server du Firewall
@@ -353,7 +352,7 @@ netstat -abp TCP
 
 Vous pourrez constater l’ouverture de deux ports par défaut, 5800 et 5900.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ11.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ11.png)
 
 Les ports 5900 et 5800 sont ouverts
 
@@ -367,14 +366,14 @@ Cependant, si vous n’avez pas coché l’option lors du processus d’installa
 
 Par exemple, pour **enregistrer TightVNC** en tant que service :
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ12.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ12.png)
 
 Attention, cette action inscrit le service dans les registres Windows **sans le démarrer**. Il est nécessaire soit de **redémarrer** Windows, soit de le **lancer à la main** pour démarrer le serveur.
 
 
 A l’inverse pour **supprimer le service** TightVNC (sans pour autant désinstaller le programme) :
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNCServ13.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNCServ13.png)
 
 Supprimer le service TightVNC
 
@@ -385,41 +384,41 @@ Windows sollicitera une **confirmation** pour ces deux actions, qui sont égal
 
 Télécharger et installer TightVNC Viewer : <http://www.tightvnc.com/download.php>
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/lien%20t%C3%A9l%C3%A9chargement.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/lien%20t%C3%A9l%C3%A9chargement.png)
 
 Une fois installé, il suffit de suivre les étapes telles qu'indiquées dans les images.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVnc1.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVnc1.png)
 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC2%20(2).png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC2%20(2).png)
 
 Choisir "**Custom**".
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC3.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC3.png)
 
 Cliquer sur la petite icône à coté de TightVNC et sélectionner la petite croix. De ce fait, il n'y aura que le TightVNC Viewer d'installé. L’autre sera inutile du coté client. Puis appuyer sur "**Next**".
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC4.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC4.png)
 
 De nouveau sur "**Next**".
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC5.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC5.png)
 
 Puis "**Install**".
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC6.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC6.png)
 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC7.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC7.png)
 
 L'installation devrait alors se dérouler normalement.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC8.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC8.png)
 
 Aller dans le disque dur de votre ordinateur > Program Files > rentrer dans le dossier de TightVNC. Une fois dedans, clic droit sur le fichier indiqué sur l’image puis sélectionner « Create shortcut ».
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC9.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC9.png)
 
 Ceci est l’icône qui devrait apparaître sur votre Bureau.
 
@@ -427,18 +426,18 @@ Ceci est l’icône qui devrait apparaître sur votre Bureau.
 
 Double-cliquez sur l'icône de lancement du logiciel.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/tightVNC9.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/tightVNC9.png)
 
 Une fois le logiciel lancé, on devrait avoir cette fenêtre qui s'ouvre:
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TighVnc%20ouverture.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/TighVnc%20ouverture.png)
 
 Il est possible de se connecter soit par le nom du server (SRVWIN01) soit par son adresse IP (172.16.10.10).
 Puis insérer le mot de passe : **Remote1*** (ou celui que vous avez défini lors l'installaiton de TightVNC sur le poste serveur).
 
 Nous avons un onglet option établi par défaut 
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/option%20par%20defaut.png)
 
 Il y a toujours la possibilité de jouer avec les paramètres par défaut pour améliorer l'utilisation.
 
@@ -446,11 +445,11 @@ Appuyer sur **Connect** pour lancer la connexion.
 Une fois connecté(e) vous devriez avoir ce rendu.  
 L'affichage d'un écran noir en fond sur le poste Serveur est normal.  
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20%C3%A9crans.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/TightVnc%20%C3%A9crans.png)
 
 Il y a une barre d'icônes en haut de la fenêtre de TightVNC.  
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20barre%20d'icons.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/TightVnc%20barre%20d'icons.jpg)
 
 De gauche à droite : 
 - nouvelle connexion: permet d'ouvrir une nouvelle connexion en plus de la première
@@ -477,35 +476,35 @@ Une fois la connexion testée, appuyer sur le bouton de sauvegarde et enregistre
 Répondre "**No**" à la question, cela empêche le logiciel de conserver le mot de passe de connexion.
 
 Double-cliquez sur le raccourci nouvellement créé sur le bureau et l'image suivante devrait apparaître :  
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/TightVnc%20ouverture.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/TightVnc%20ouverture.png)
 
 ### 6. Configuration de l'accès sécurisé via TightVNC par filtrage d'adresse IP (depuis serveur)
 
 Depuis le poste serveur renseignez dans la barre de recherche en bas à gauche de votre écran : “TightVNC Service - Offline Configuration". Cliquez sur l'application du même nom.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/secu_tight_VNC1.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/secu_tight_VNC1.jpg)
 
 
 Dans la fenêtre de l'application, accèder à l'onglet "**Acces Control**".
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/secu_tight_VNC2.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/secu_tight_VNC2.jpg)
 
 
 Cliquez sur le bouton "**Add**" pour paramétrer la ou les adresses IP considérées.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/secu_tight_VNC3.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/secu_tight_VNC3.jpg)
 
 
 Dans la case "First matching", entrez l'adresse IP du poste client concerné (dans notre cas 172.16.10.20). Si vous souhaitez étendre la plage des adresses IP concernées, alors remplir la case "Last matching IP" au-dessous avec la dernière adresse IP voulue. Dans le cas contraire, laissez cette case vide. Il est alors possible de donner l'accès "Allow", refusez l'accès ("Deny") ou encore de laisser le choix à l'utilisateur par le biais d'une fenêtre qui s'ouvrira lors de la requête de téléassistance émise par le poste client "Query local user".
 Dans notre cas, et pour des raisons de sécurité et de contrôle, nous cochons cette dernière et appuyons sur "**OK**".
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/secu_tight_VNC4.jpg)
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/secu_tight_VNC5.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/secu_tight_VNC4.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/secu_tight_VNC5.jpg)
 
 
 Ne pas oublier d'appliquer nos options à l'utilisation de TightVNC en cliquant d'abord sur "Apply" avant de fermer la fenêtre ou d'appuyer sur "**OK**".
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/secu_tight_VNC6.jpg)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/secu_tight_VNC6.jpg)
 
 ### 7. Utilisation d'un script powershell pour faciliter la connexion au poste serveur
 
@@ -514,7 +513,7 @@ A son exécution le script demandera à l'utilisateur s'il veut faire la télém
 Il est très important d'avoir enregistré les deux raccourcis de connexion pour les solutions sur le bureau avec les noms donnés plus haut. Si ce n'est pas le cas, il ne sera pas fonctionnel.  
 Il est aussi très important d'enregistrer le scripts dans le dossier *Mes Documents* de l'utilsateur de la session qui lancera le script depuis le poste client.  
 Dans notre cas le nom de l'utilisateur est "**Wilder**" et donc le script est enregistré ici :  "**C:\Users\wilder\Documents**".  
-Vous pouvez récupérer le script directement grâce au lien suivant :  [ICI](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip).  
+Vous pouvez récupérer le script directement grâce au lien suivant :  [ICI](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip).  
 Vous trouverez trois fichiers :  
 - Script_assitance.ps1 ==> script powershell.
 - Assitance.lnk ==> raccourci pour lancer le script via l'ancienne version de PowerShell.
@@ -528,7 +527,7 @@ Il faudra donc au préalable utilser la commande suivante dans PowerShell en fon
 `Set-ExecutionPolicy -Scope LocalMachine -ExecutionPolicy Unrestricted`
 
 L'image suivante apparait. Réponder par la lettre " T " (en majuscule et pas en minisucule) pour **Oui pour Tout**  
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/powershell.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/powershell.png)
 
 Relancer le script, et cela devrait fonctionner normalement.
 
@@ -586,7 +585,7 @@ _**La navigation sur le poste serveur est lente ou semble lagguer ?**_
 
 Verifiez les paramètres suivants dans les options du poste Client depuis TightVNC Viewer.
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option%20par%20defaut.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/option%20par%20defaut.png)
 
 Vous pouvez jouez sur les paramètres suivants :
 - Laissez l'option "**Prefered encoding**" sur *Tigh*. C'est le format conseillé par l'éditeur du logiciel.
@@ -596,7 +595,7 @@ Vous pouvez jouez sur les paramètres suivants :
 
 Depuis le poste serveur, ouvrer le menu de configuration TighVNC serveur (reprendre la méthode donnée en 6. pour y accéder).
 
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option_vnc_serveur.png)  
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/option_vnc_serveur.png)  
 
 Sur cette page là, baisser le paramètre **Scree polling cycle** au minimum, cela devrait améliorer les performance depuis le poste client.  
 Et vérifiez que **Hide desktop wallpaper** est bien désactivé.
@@ -606,7 +605,7 @@ _**Lors de la connexion depuis le poste client, je vois juste un fond uni, aucun
 Depuis le poste serveur, ouvrer le menu de configuration TighVNC serveur (reprendre la méthode donnée dans la partie 6. pour y accéder).
 
 Sur cette page là, décochez le **Use D3D driver if available**.  
-![](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/blob/main/Images/option_vnc_serveur.png)
+![](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/main/Images/option_vnc_serveur.png)
 
 
 ### Script de connexion
