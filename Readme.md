@@ -6,7 +6,7 @@
 ## Sommaire 
 1. Présentation du projet et objectifs
 2. Mise en contexte
-3. Présentaiton de l'équipe
+3. Présentation de l'équipe
 4. Choix techniques
 5. Difficultés & solutions trouvées
 6. Améliorations
@@ -41,8 +41,8 @@ Rôle Semaine 1 :
 Tâches Semaine 1 :
 | Tâche | Personne |
 |:-: |:-:|
-| Configuraiton VM Poste Serveur | Luca Pouilly |
-| Configuraiton VM Poste Client | Nicolas Maggiori |
+| Configuration VM Poste Serveur | Luca Pouilly |
+| Configuration VM Poste Client | Nicolas Maggiori |
 | Bureau d'accès à distance | Charles Caulier |
 | Logiciel TightVNC |  Damien Legay |
 | Objectif secondaire prise d'infos | Bruno Serna |
@@ -91,7 +91,7 @@ Logiciel de prise en main à distance
   - Affichage en plein écran ou non;
   - Résolution d'affichage;
   - Partage de dossiers entre les deux postes;
-  - Autres possiblitées.
+  - Autres possiblités.
 
 - Voir comment mettre en place une connexion si les deux postes ne sont pas sur le même réseau.
   - Autre solution logiciel;
