@@ -34,11 +34,13 @@ L'équipe pour le projet est constituée des personnes suivantes :
 Durant tout le projet les rôles et taches de chacun sont répartis de la façon suivante :
 
 Rôle Semaine 1 :
+
 | PO | SM |
 |:-: |:-:|
 | Luca Pouilly | Bruno Serna |
 
 Tâches Semaine 1 :
+
 | Tâche | Personne |
 |:-: |:-:|
 | Configuration VM Poste Serveur | Luca Pouilly |
@@ -48,11 +50,13 @@ Tâches Semaine 1 :
 | Objectif secondaire prise d'infos | Bruno Serna |
 
 Rôle Semaine 2 :
+
 | PO | SM |
 |:-: |:-:|
 | Damien Legay | Charles Caulier |
 
 Tâches Semaine 2 :
+
 | Tâche | Personne |
 |:-: |:-:|
 | Rédaction documentations | Luca Pouilly, Nicolas Maggiori |
