@@ -513,7 +513,7 @@ A son exécution le script demandera à l'utilisateur s'il veut faire la télém
 Il est très important d'avoir enregistré les deux raccourcis de connexion pour les solutions sur le bureau avec les noms donnés plus haut. Si ce n'est pas le cas, il ne sera pas fonctionnel.  
 Il est aussi très important d'enregistrer le scripts dans le dossier *Mes Documents* de l'utilsateur de la session qui lancera le script depuis le poste client.  
 Dans notre cas le nom de l'utilisateur est "**Wilder**" et donc le script est enregistré ici :  "**C:\Users\wilder\Documents**".  
-Vous pouvez récupérer le script directement grâce au lien suivant :  [ICI](https://raw.githubusercontent.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip).  
+Vous pouvez récupérer le script directement grâce au lien suivant :  [ICI](https://github.com/WildCodeSchool/TSSR-2402-P1-G2-Teleassistance/raw/main/Ressources/Script.zip).  
 Vous trouverez trois fichiers :  
 - Script_assitance.ps1 ==> script powershell.
 - Assitance.lnk ==> raccourci pour lancer le script via l'ancienne version de PowerShell.
